@@ -1,0 +1,67 @@
+{
+  "slug": "bortschsallad",
+  "titel": "Bortschsallad",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.0609,
+          "enhet": "kg",
+          "namn": "Rödbetor"
+        },
+        {
+          "mängd": 0.0231,
+          "enhet": "kg",
+          "namn": "Rödbetsspad"
+        },
+        {
+          "mängd": 0.0126,
+          "enhet": "kg",
+          "namn": "Pepparrot riven"
+        },
+        {
+          "mängd": 0.00189,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.00042,
+          "enhet": "kg",
+          "namn": "Vitpeppar"
+        },
+        {
+          "mängd": 0.00084,
+          "enhet": "kg",
+          "namn": "Svartpepper grov"
+        },
+        {
+          "mängd": 0.000252,
+          "enhet": "kg",
+          "namn": "Senapsfrö"
+        },
+        {
+          "mängd": 0.0008,
+          "enhet": "kg",
+          "namn": "Nejlikor malda"
+        },
+        {
+          "mängd": 0.00105,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "BORTSCH SALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

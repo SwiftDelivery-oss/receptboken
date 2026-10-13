@@ -1,0 +1,79 @@
+{
+  "slug": "mork-sirapslimpa",
+  "titel": "Mörk Sirapslimpa",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "Skållning ",
+      "ingredienser": [
+        {
+          "mängd": 0.0625,
+          "enhet": "kg",
+          "namn": "Rågsikt"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.3125,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.0625,
+          "enhet": "kg",
+          "namn": "Vört"
+        },
+        {
+          "mängd": 0.01875,
+          "enhet": "kg",
+          "namn": "Sirap mörk"
+        },
+        {
+          "mängd": 0.00625,
+          "enhet": "kg",
+          "namn": "Havssalt "
+        },
+        {
+          "mängd": 0.014,
+          "enhet": "kg",
+          "namn": "Jäst"
+        },
+        {
+          "mängd": 0.075,
+          "enhet": "kg",
+          "namn": "Surdeg vete",
+          "delrecept": "surdeg-vete"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "800g",
+  "originalrubriker": [
+    "Mörk Sirapslimpa ",
+    "800g"
+  ],
+  "anteckningar": [
+    "Blanda länge i maskin 10-15 min",
+    "Bakas lättast i form "
+  ],
+  "delrecept": [
+    "surdeg-vete"
+  ],
+  "granska": true
+}

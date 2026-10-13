@@ -1,0 +1,116 @@
+{
+  "slug": "albondigas",
+  "titel": "Albóndigas",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "Köttbullar",
+      "ingredienser": [
+        {
+          "mängd": 0.075,
+          "enhet": "kg",
+          "namn": "Blandfärs"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "st",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.0075,
+          "enhet": "kg",
+          "namn": "Ströbröd"
+        },
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "Mjölk"
+        },
+        {
+          "mängd": 0.0075,
+          "enhet": "kg",
+          "namn": "Gul lök, finhackad"
+        },
+        {
+          "mängd": 0.00075,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.0015,
+          "enhet": "kg",
+          "namn": "Persilja"
+        },
+        {
+          "mängd": 0.00125,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": null,
+          "enhet": "efter smak",
+          "namn": "Svartpeppar"
+        }
+      ]
+    },
+    {
+      "rubrik": "Tomatsås",
+      "ingredienser": [
+        {
+          "mängd": 0.075,
+          "enhet": "kg",
+          "namn": "Krossade tomater"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Gul lök"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.0025,
+          "enhet": "kg",
+          "namn": "Tomatpuré"
+        },
+        {
+          "mängd": 0.0015,
+          "enhet": "kg",
+          "namn": "Olivolja"
+        },
+        {
+          "mängd": 0.0005,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": null,
+          "enhet": "efter smak",
+          "namn": "Oregano"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "portioner",
+  "standardantal": 15,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Albóndigas – köttbullar i tomatsås"
+  ],
+  "anteckningar": [
+    "efter smak",
+    "Salt och peppar",
+    "Gör så här",
+    "Forma små köttbullar, ca 30 g/st.",
+    "Bryn dem i smör/olja i omgångar och lägg åt sidan.",
+    "Fräs lök och vitlök till såsen. Tillsätt tomatpuré, krossade tomater och socker, låt sjuda ca 15 min.",
+    "Lägg tillbaka köttbullarna och låt dem gå färdigt i såsen ca 10–15 min. Smaka av med oregano, salt och peppar.",
+    "Tips: gör gärna dagen före – de blir nästan godare efter uppvärmning."
+  ],
+  "delrecept": [],
+  "granska": true
+}

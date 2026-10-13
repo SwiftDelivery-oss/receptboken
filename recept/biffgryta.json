@@ -1,0 +1,66 @@
+{
+  "slug": "biffgryta",
+  "titel": "biffgryta",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Biff"
+        },
+        {
+          "mängd": 2,
+          "enhet": "st",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 2,
+          "enhet": "msk",
+          "namn": "Dijonsenap"
+        },
+        {
+          "mängd": 1,
+          "enhet": "st",
+          "namn": "Köttbuljong"
+        },
+        {
+          "mängd": 2,
+          "enhet": "msk",
+          "namn": "soja"
+        },
+        {
+          "mängd": 2,
+          "enhet": "dl",
+          "namn": "vatten"
+        },
+        {
+          "mängd": 2,
+          "enhet": "st ",
+          "namn": "vitlöks klyftor"
+        },
+        {
+          "mängd": 2,
+          "enhet": "dl",
+          "namn": "Cremfrach"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "portion",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Biff gryta ",
+    "1 portion = 4 portioner "
+  ],
+  "anteckningar": [
+    "Koka biffen i 10-15 min i vatten tillsätt resten låt skjuda i 5-10 min ",
+    "servera med ris eller potatis "
+  ],
+  "delrecept": [],
+  "granska": true
+}

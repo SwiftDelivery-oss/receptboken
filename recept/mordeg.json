@@ -1,0 +1,52 @@
+{
+  "slug": "mordeg",
+  "titel": "Mördeg",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Karite"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 1.5,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.2,
+          "enhet": "L",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.014,
+          "enhet": "kg",
+          "namn": "Hjortonsalt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda allt med krok tills den är en fin deg ganska hård"
+  ],
+  "delrecept": [],
+  "granska": true
+}

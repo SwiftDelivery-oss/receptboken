@@ -1,0 +1,32 @@
+{
+  "slug": "surdeg-vete",
+  "titel": "Surdeg vete",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "kg",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Recept Surdeg"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

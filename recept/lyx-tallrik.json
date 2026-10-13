@@ -1,0 +1,117 @@
+{
+  "slug": "lyx-tallrik",
+  "titel": "Lyx tallrik",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "(landgångsform)",
+      "variant": "1",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "st",
+          "namn": "Ägg  ( halva )"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Räkor"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Paté"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Lax (kallrökt)"
+        },
+        {
+          "mängd": 0.14,
+          "enhet": "kg",
+          "namn": "Potatissallad"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Skinka  (2 skivor )"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Salami  ( 2-3 skivor )"
+        }
+      ]
+    },
+    {
+      "rubrik": "(rund form)",
+      "variant": "2",
+      "ingredienser": [
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Skaldjurs paté"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Peppar salami"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Rökt skinka"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Lax (kallrökt )"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Räkor ( frysta )"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "st",
+          "namn": "Ägg ( halva )"
+        },
+        {
+          "mängd": 0.14,
+          "enhet": "kg",
+          "namn": "Potatissallad"
+        },
+        {
+          "mängd": 2,
+          "enhet": "st",
+          "namn": "Tomat ( körsbär )"
+        },
+        {
+          "mängd": null,
+          "enhet": "",
+          "namn": "Sallad i botten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "LYX TALLRIK",
+    "(landgångsform)",
+    "Jimmy"
+  ],
+  "anteckningar": [
+    "Sallad,tomater som dek.",
+    "LYX TALLRIK",
+    "(rund form)",
+    "Dill eller Persilja kvist",
+    "ej gaffel"
+  ],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "pasta-kyckling",
+  "titel": "Pasta kyckling",
+  "kategori": "Kallskuret",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Sallad"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Pasta"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Dressing"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Kyckling"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Ärtor,majs,paprika"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "st",
+          "namn": "Tomat klyfta"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Paprika strimla"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Pasta sallad Kyckling"
+  ],
+  "anteckningar": [
+    "Dressing:",
+    "Olja 2 msk",
+    "Vinäger 1 msk",
+    "Italiensksalladskrydda 1 msk",
+    "Salt",
+    "Vitpeppar"
+  ],
+  "delrecept": [],
+  "granska": true
+}

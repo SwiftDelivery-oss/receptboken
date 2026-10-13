@@ -1,0 +1,47 @@
+{
+  "slug": "fisksas-stark",
+  "titel": "Fisksås stark",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Fisksås (Squid)"
+        },
+        {
+          "mängd": 0.2,
+          "enhet": "kg",
+          "namn": "vatten"
+        },
+        {
+          "mängd": 4,
+          "enhet": "st",
+          "namn": "Grön chili stark"
+        },
+        {
+          "mängd": 4,
+          "enhet": "st",
+          "namn": "vitlök klyftor"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "Socker"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Frissås stark"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

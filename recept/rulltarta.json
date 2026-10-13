@@ -1,0 +1,56 @@
+{
+  "slug": "rulltarta",
+  "titel": "Rulltårta",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.333,
+          "enhet": "kg",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.266,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Citron"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Vanilj pulver"
+        },
+        {
+          "mängd": 0.2,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.006,
+          "enhet": "kg",
+          "namn": "Bakpulver"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda: Ägg, socker fluffigt vitt ",
+    "Blanda: vetemjöl, bakpulver ",
+    "Vänd ner mjölblandningen i smeten försiktigt",
+    "Häll på en plåt med bakplåtspapper",
+    "Grädda i varluft: 170° i ca 7 min "
+  ],
+  "delrecept": [],
+  "granska": true
+}

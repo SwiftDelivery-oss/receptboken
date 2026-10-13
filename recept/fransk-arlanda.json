@@ -1,0 +1,64 @@
+{
+  "slug": "fransk-arlanda",
+  "titel": "fransk arlanda",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2.999,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 0.26,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "olja"
+        },
+        {
+          "mängd": 0.028,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.165,
+          "enhet": "kg",
+          "namn": "Senap"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.045,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "PÅSPOTATIS",
+    "FRANSK POTATISSALLAD",
+    "ARLANDA"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

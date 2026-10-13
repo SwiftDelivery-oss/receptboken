@@ -1,0 +1,61 @@
+{
+  "slug": "tebaguegette",
+  "titel": "Tebaguegette",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.0433,
+          "enhet": "kg",
+          "namn": "vetemjöl "
+        },
+        {
+          "mängd": 0.00066,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.0007777,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.005555,
+          "enhet": "kg",
+          "namn": "smör"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Socket"
+        },
+        {
+          "mängd": 0.01111,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.016666,
+          "enhet": "kg",
+          "namn": "mjölk"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Tebaguette"
+  ],
+  "anteckningar": [
+    "Blanda i maskin 10 min låt vila 30 min",
+    "Dela degen i 80g bitar ",
+    "Forma avlånga små bröd"
+  ],
+  "delrecept": [],
+  "granska": true
+}

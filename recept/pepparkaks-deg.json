@@ -1,0 +1,73 @@
+{
+  "slug": "pepparkaks-deg",
+  "titel": "Pepparkaks deg",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.2,
+          "enhet": "kg",
+          "namn": "Sirap (brun)"
+        },
+        {
+          "mängd": 0.192,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.16,
+          "enhet": "kg",
+          "namn": "Mjölk pulver"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "kg",
+          "namn": "socker"
+        },
+        {
+          "mängd": 0.0192,
+          "enhet": "kg",
+          "namn": "Kanel"
+        },
+        {
+          "mängd": 0.0096,
+          "enhet": "kg",
+          "namn": "Ingefära"
+        },
+        {
+          "mängd": 0.0096,
+          "enhet": "kg",
+          "namn": "Nejlika"
+        },
+        {
+          "mängd": 0.0128,
+          "enhet": "kg",
+          "namn": "Bikarbonat"
+        },
+        {
+          "mängd": 1.12,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda: Vetemjöl med torr kryddor (bör siktas)",
+    "Blanda sedan allt låt stå i kyl minst 1 vecka"
+  ],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "aioli",
+  "titel": "AIOLI",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.231,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.023,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.0004,
+          "enhet": "kg",
+          "namn": "Svartpeppar fin"
+        },
+        {
+          "mängd": 0.003,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

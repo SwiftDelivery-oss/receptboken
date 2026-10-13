@@ -1,0 +1,45 @@
+{
+  "slug": "pajdeg",
+  "titel": "Pajdeg",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Vatten (kallt)"
+        },
+        {
+          "mängd": 6e-05,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda allt men inte för länge men den ska gå ihop",
+    "Kongresser"
+  ],
+  "delrecept": [
+    "kongress-massa"
+  ],
+  "granska": true
+}

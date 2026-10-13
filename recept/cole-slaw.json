@@ -1,0 +1,58 @@
+{
+  "slug": "cole-slaw",
+  "titel": "Cole slaw",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.6,
+          "enhet": "kg",
+          "namn": "Vitlkål"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Morötter"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Ananas"
+        },
+        {
+          "mängd": 0.0027,
+          "enhet": "kg",
+          "namn": "Svartpeppar grov"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "natriumbensoat"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "COLE SLAW",
+    "(SSP Arlanda )"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "ragbrod-solros",
+  "titel": "Rågbröd Solros",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "Blötlägg ca 12 timmar i förväg minst",
+      "ingredienser": [
+        {
+          "mängd": 0.13333,
+          "enhet": "kg",
+          "namn": "Solrosfrön"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "vetekli"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Råg kross "
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.41666,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Rågmjöl grovt "
+        },
+        {
+          "mängd": 0.00833,
+          "enhet": "kg",
+          "namn": "Jäst torr"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Surdeg råg",
+          "delrecept": "surdeg-rag"
+        },
+        {
+          "mängd": 0.16,
+          "enhet": "kg",
+          "namn": "skollat rågmjöl fint",
+          "delrecept": "skollning-ragmjol-fint"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Rågbröd ",
+    "3 satser = 3 bröd ca 1,1 kg st"
+  ],
+  "anteckningar": [
+    "OBS! Kolla fördelningen mjöl och vatten till skollning (FLIK Skollning rågmjöl fint)",
+    "Blanda länge i maskin 10-15 min",
+    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min ",
+    "Inne temp 93-98 grader",
+    "Topping Vetekli "
+  ],
+  "delrecept": [
+    "skollning-ragmjol-fint",
+    "surdeg-rag"
+  ],
+  "granska": true
+}

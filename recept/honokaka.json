@@ -1,0 +1,57 @@
+{
+  "slug": "honokaka",
+  "titel": "Hönökaka",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.16,
+          "enhet": "kg",
+          "namn": "Vetemjöl "
+        },
+        {
+          "mängd": 0.16,
+          "enhet": "kg",
+          "namn": "Rågsikt"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.00466,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.03333,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.04666,
+          "enhet": "kg",
+          "namn": "Ljus sirap"
+        },
+        {
+          "mängd": 0.2,
+          "enhet": "kg",
+          "namn": "Mjölk"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 10,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Finger varm mjölk"
+  ],
+  "delrecept": [],
+  "granska": false
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "skollning-ragmjol-fint",
+  "titel": "Skollning rågmjöl fint",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.6875,
+          "enhet": "kg",
+          "namn": "Vatten "
+        },
+        {
+          "mängd": 0.3125,
+          "enhet": "kg",
+          "namn": "Rågmjöl fint"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "kg",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Kokande vatten blanda med rågmjölet "
+  ],
+  "delrecept": [],
+  "granska": true
+}

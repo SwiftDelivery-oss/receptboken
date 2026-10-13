@@ -1,0 +1,52 @@
+{
+  "slug": "curry",
+  "titel": "curry",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.032,
+          "enhet": "kg",
+          "namn": "Curry"
+        },
+        {
+          "mängd": 0.042,
+          "enhet": "kg",
+          "namn": "Äppeljos"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "V-Peppar"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "CURRY DRESSING"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

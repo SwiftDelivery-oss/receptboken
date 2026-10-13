@@ -1,0 +1,76 @@
+{
+  "slug": "kyckling-rora",
+  "titel": "Kyckling  röra",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "KYCKLINGRÖRA MED CURRY",
+      "variant": "1",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "CURRY MAJONÄS",
+          "delrecept": "curry"
+        },
+        {
+          "mängd": 0.375,
+          "enhet": "kg",
+          "namn": "KYCKLING"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "PURJO"
+        }
+      ]
+    },
+    {
+      "rubrik": "1 omg= 1 sandwich",
+      "variant": "2",
+      "ingredienser": [
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.008,
+          "enhet": "kg",
+          "namn": "Curry majonäs",
+          "delrecept": "curry"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Kyckling"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Purjo fin hackad"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "KYCKLINGRÖRA MED CURRY"
+  ],
+  "anteckningar": [
+    "1 omg= 1 sandwich",
+    "sats"
+  ],
+  "delrecept": [
+    "curry"
+  ],
+  "granska": true
+}

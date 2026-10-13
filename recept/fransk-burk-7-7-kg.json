@@ -1,0 +1,57 @@
+{
+  "slug": "fransk-burk-7-7-kg",
+  "titel": "Fransk burk 7,7 kg",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 7.7,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 0.667,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.931,
+          "enhet": "kg",
+          "namn": "Olja"
+        },
+        {
+          "mängd": 0.072,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.535,
+          "enhet": "kg",
+          "namn": "Senap"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "FRANSK POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

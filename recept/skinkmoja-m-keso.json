@@ -1,0 +1,63 @@
+{
+  "slug": "skinkmoja-m-keso",
+  "titel": "Skinkmoja m keso",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Skinka skivad"
+        },
+        {
+          "mängd": 0.3,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.3,
+          "enhet": "kg",
+          "namn": "Keso "
+        },
+        {
+          "mängd": 0.0072,
+          "enhet": "kg",
+          "namn": "Spansk peppar"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Paprika röd tärnad"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Natriumbensoat"
+        },
+        {
+          "mängd": null,
+          "enhet": "",
+          "namn": "Förtjockningsm."
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "SKINKMOJA M KESO",
+    "(SSP Arlanda )"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

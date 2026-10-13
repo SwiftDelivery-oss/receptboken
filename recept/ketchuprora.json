@@ -1,0 +1,52 @@
+{
+  "slug": "ketchuprora",
+  "titel": "Ketchupröra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Ketchup"
+        },
+        {
+          "mängd": 0.333,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.0066,
+          "enhet": "kg",
+          "namn": "Pepparmix"
+        },
+        {
+          "mängd": 0.0066,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.001066,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.16666,
+          "enhet": "liter",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "KETCHUPRÖRA"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

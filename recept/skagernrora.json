@@ -1,0 +1,42 @@
+{
+  "slug": "skagernrora",
+  "titel": "skagernröra",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Ishavsröra",
+          "delrecept": "ishavsrora"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Räkor"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Dill"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "SKAGERN RÖRA"
+  ],
+  "anteckningar": [
+    "1 sats = 1 st sandwich"
+  ],
+  "delrecept": [
+    "ishavsrora"
+  ],
+  "granska": true
+}

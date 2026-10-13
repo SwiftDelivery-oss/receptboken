@@ -1,0 +1,60 @@
+{
+  "slug": "havreflan",
+  "titel": "Havreflan",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.2375,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "vatten"
+        },
+        {
+          "mängd": 0.1625,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.175,
+          "enhet": "kg",
+          "namn": "Havreflan"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Bakpullver"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda: Ägg, Socker, Vatten (Vispa hårt)",
+    "Smör kör med vinge",
+    "Blanda väl: Vetemjöl, Havreflan, bakpulver",
+    "Grädda i 160° i ca kolla"
+  ],
+  "delrecept": [],
+  "granska": true
+}

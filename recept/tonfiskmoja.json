@@ -1,0 +1,80 @@
+{
+  "slug": "tonfiskmoja",
+  "titel": "Tonfiskmoja",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1.9,
+          "enhet": "kg",
+          "namn": "Tonfisk ",
+          "delrecept": "tonfisk"
+        },
+        {
+          "mängd": 0.95,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 1.9,
+          "enhet": "kg",
+          "namn": "Paprika röd tärnad"
+        },
+        {
+          "mängd": 0.95,
+          "enhet": "kg",
+          "namn": "Creme Fraiche 34 % PH"
+        },
+        {
+          "mängd": 0.38,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.058,
+          "enhet": "kg",
+          "namn": "Peppar spansk röd färsk"
+        },
+        {
+          "mängd": 0.038,
+          "enhet": "kg",
+          "namn": "Citron koncentrat"
+        },
+        {
+          "mängd": 0.019,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Vitpeppar malen"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "Natriumbensoat"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Förtjockningsm."
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "TONFISKMOJA  (SSP Arlanda)"
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "tonfisk"
+  ],
+  "granska": true
+}

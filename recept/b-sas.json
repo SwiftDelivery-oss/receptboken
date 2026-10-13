@@ -1,0 +1,55 @@
+{
+  "slug": "b-sas",
+  "titel": "B-sås",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.049,
+          "enhet": "kg",
+          "namn": "Ägg gula"
+        },
+        {
+          "mängd": 2,
+          "enhet": "tsk",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 1,
+          "enhet": "msk",
+          "namn": "Persillja"
+        },
+        {
+          "mängd": 5,
+          "enhet": "st",
+          "namn": "v-p korn"
+        },
+        {
+          "mängd": 2,
+          "enhet": "msk",
+          "namn": "vit-vinäger"
+        },
+        {
+          "mängd": 1.5,
+          "enhet": "msk",
+          "namn": "dragon"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

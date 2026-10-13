@@ -1,0 +1,72 @@
+{
+  "slug": "rak-kraft",
+  "titel": "Räk & kräft",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.75,
+          "enhet": "kg",
+          "namn": "Räkor"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "st",
+          "namn": "Kräftor"
+        },
+        {
+          "mängd": 1.25,
+          "enhet": "kg",
+          "namn": "Majo"
+        },
+        {
+          "mängd": 0.3,
+          "enhet": "kg",
+          "namn": "Majzena"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "st",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "st",
+          "namn": "Chilisås"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "st",
+          "namn": "Sparris spad"
+        },
+        {
+          "mängd": 0.54,
+          "enhet": "kg",
+          "namn": "Sparris"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "st",
+          "namn": "Dill"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Räk & Kräft röra"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

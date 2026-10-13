@@ -1,0 +1,52 @@
+{
+  "slug": "vofflor",
+  "titel": "vofflor",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2,
+          "enhet": "st",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Smält smör"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "kg",
+          "namn": "Mjölk"
+        },
+        {
+          "mängd": 0.27,
+          "enhet": "kg",
+          "namn": "Mjöl"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Bakpulver"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Våfflor"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

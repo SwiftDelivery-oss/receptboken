@@ -1,0 +1,60 @@
+{
+  "slug": "gronsallad-rakor",
+  "titel": "Grönsallad Räkor",
+  "kategori": "Kallskuret",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Sallad"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Dressing"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Räkor"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Ärtor,majs,paprika"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "st",
+          "namn": "Tomat "
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Ägg halva"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Gaffel"
+        },
+        {
+          "mängd": null,
+          "enhet": "",
+          "namn": "Dill en nypa"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

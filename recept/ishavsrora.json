@@ -1,0 +1,100 @@
+{
+  "slug": "ishavsrora",
+  "titel": "Ishavsröra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "ISHAVSRÖRA",
+      "ingredienser": [
+        {
+          "mängd": 1.5,
+          "enhet": "kg",
+          "namn": "Räkor"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1,
+          "enhet": "kg",
+          "namn": "Crabbsticks"
+        },
+        {
+          "mängd": 1.5,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.045,
+          "enhet": "kg",
+          "namn": "Citron"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Dill"
+        },
+        {
+          "mängd": 0.006,
+          "enhet": "kg",
+          "namn": "V-Peppar"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "kg",
+          "namn": "Majzena "
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Citronpeppar"
+        },
+        {
+          "mängd": 0.018,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.07,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "Natriumb"
+        }
+      ]
+    },
+    {
+      "rubrik": "MAJZENA BLANDNING",
+      "ingredienser": [
+        {
+          "mängd": 0.6,
+          "enhet": "kg",
+          "namn": "VATTEN"
+        },
+        {
+          "mängd": 0.07,
+          "enhet": "kg",
+          "namn": "MAJZENA"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

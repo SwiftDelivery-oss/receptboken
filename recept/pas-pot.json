@@ -1,0 +1,74 @@
+{
+  "slug": "pas-pot",
+  "titel": "Pås pot",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2.999,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 1,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 0.006,
+          "enhet": "kg",
+          "namn": "S-peppar"
+        },
+        {
+          "mängd": 0.0035,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.009,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.083,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.12,
+          "enhet": "kg",
+          "namn": "(Vit lök)"
+        },
+        {
+          "mängd": 0.008,
+          "enhet": "kg",
+          "namn": "natriumbensoat"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "PÅS POTATIS !!",
+    "POTATISSALLAD",
+    "(10 sats=12påsar)"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

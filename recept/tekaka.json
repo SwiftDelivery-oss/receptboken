@@ -1,0 +1,57 @@
+{
+  "slug": "tekaka",
+  "titel": "Tekaka",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "vetemjöl "
+        },
+        {
+          "mängd": 0.000255,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.000875,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "smör"
+        },
+        {
+          "mängd": 0.00255,
+          "enhet": "kg",
+          "namn": "ljussirap"
+        },
+        {
+          "mängd": 0.0046,
+          "enhet": "kg",
+          "namn": "havregryn"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "mjölk"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Tekakor"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,10 @@
+{
+  "name": "receptboken",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python scripts/build.py",
+    "dev": "python scripts/build.py && python -m http.server 5173 --bind 127.0.0.1 --directory dist",
+    "test": "python -m unittest discover -s tests -p test_*.py && node --test tests/*.test.js"
+  }
+}

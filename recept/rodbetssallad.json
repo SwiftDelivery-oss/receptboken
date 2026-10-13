@@ -1,0 +1,57 @@
+{
+  "slug": "rodbetssallad",
+  "titel": "Rödbetssallad",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 6.3,
+          "enhet": "kg",
+          "namn": "Rödbetor"
+        },
+        {
+          "mängd": 3,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Äppeljos"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "V-Peppar"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Förtjockningsmedel"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "natriumben."
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "RÖDBETSSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

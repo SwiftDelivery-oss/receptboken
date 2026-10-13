@@ -1,0 +1,60 @@
+{
+  "slug": "kallarfranska",
+  "titel": "Källarfranska",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.056,
+          "enhet": "kg",
+          "namn": "vetemjöl "
+        },
+        {
+          "mängd": 0.0065,
+          "enhet": "kg",
+          "namn": "Rågsikt "
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.000875,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.00325,
+          "enhet": "kg",
+          "namn": "olivolja "
+        },
+        {
+          "mängd": 0.0065,
+          "enhet": "kg",
+          "namn": "Surdeg vete ",
+          "delrecept": "surdeg-vete"
+        },
+        {
+          "mängd": 0.034375,
+          "enhet": "kg",
+          "namn": "vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 30,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "källarfranska "
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "surdeg-vete"
+  ],
+  "granska": true
+}

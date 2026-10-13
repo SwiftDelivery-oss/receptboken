@@ -1,0 +1,72 @@
+{
+  "slug": "pizza-deg",
+  "titel": "Pizza deg",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "Tipo \"00\"",
+      "variant": "1",
+      "ingredienser": [
+        {
+          "mängd": 109.32,
+          "enhet": "g",
+          "namn": "vatten"
+        },
+        {
+          "mängd": 4.97,
+          "enhet": "g",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.08,
+          "enhet": "g",
+          "namn": "Torr jäst"
+        },
+        {
+          "mängd": 165.63,
+          "enhet": "g",
+          "namn": "Mjöl"
+        }
+      ]
+    },
+    {
+      "rubrik": "Vetemjöl Special",
+      "variant": "2",
+      "ingredienser": [
+        {
+          "mängd": 111.31,
+          "enhet": "g",
+          "namn": "vatten"
+        },
+        {
+          "mängd": 4.91,
+          "enhet": "g",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.08,
+          "enhet": "g",
+          "namn": "Torr jäst"
+        },
+        {
+          "mängd": 163.7,
+          "enhet": "g",
+          "namn": "Mjöl"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "1 sats = 1 pizza = 280 g"
+  ],
+  "anteckningar": [
+    "Blanda till smidig deg i maskin ca 10-15 min. Dela upp i bitar. Låt jäsa i kyl över natten.",
+    "Obs! kallt vatten"
+  ],
+  "delrecept": [],
+  "granska": true
+}

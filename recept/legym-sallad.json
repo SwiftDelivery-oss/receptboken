@@ -1,0 +1,69 @@
+{
+  "slug": "legym-sallad",
+  "titel": "Legym sallad",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Grönsaker ( sommar)"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Yoghurt pulver"
+        },
+        {
+          "mängd": 0.11,
+          "enhet": "kg",
+          "namn": "Äpple tärnat"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "vitpeppar "
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Curry",
+          "delrecept": "curry"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "natriumbensoat"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "LEGYMSALLAD"
+  ],
+  "anteckningar": [
+    "OBS !",
+    "Grönsakerna minskar i vikt när de kokas",
+    "20 gr på 500 gr"
+  ],
+  "delrecept": [
+    "curry"
+  ],
+  "granska": true
+}

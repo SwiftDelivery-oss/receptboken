@@ -1,0 +1,49 @@
+{
+  "slug": "rodbetor-philiefiaost",
+  "titel": "Rödbetor philiefiaost",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1,
+          "enhet": "st",
+          "namn": "Rödbetor (Stora)"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Philidelfiaost"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Färsk Spenat"
+        },
+        {
+          "mängd": 3,
+          "enhet": "skivor",
+          "namn": "Bacon"
+        },
+        {
+          "mängd": null,
+          "enhet": "",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Rödbetor med Philidelfiaost "
+  ],
+  "anteckningar": [
+    "V-Peppar"
+  ],
+  "delrecept": [],
+  "granska": true
+}

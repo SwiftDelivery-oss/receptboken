@@ -1,0 +1,73 @@
+{
+  "slug": "pot-burk",
+  "titel": "pot. burk",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 6.3,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 2.1,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.126,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.126,
+          "enhet": "kg",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 0.013,
+          "enhet": "kg",
+          "namn": "S-peppar"
+        },
+        {
+          "mängd": 0.008,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.019,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.166,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.017,
+          "enhet": "kg",
+          "namn": "natriumbensoat"
+        },
+        {
+          "mängd": 0.252,
+          "enhet": "kg",
+          "namn": "Vit lök"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "BURK POTATIS !!",
+    "POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

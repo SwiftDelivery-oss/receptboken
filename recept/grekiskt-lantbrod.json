@@ -1,0 +1,55 @@
+{
+  "slug": "grekiskt-lantbrod",
+  "titel": "Grekiskt lantbröd ",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.336,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.0084,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.0175,
+          "enhet": "kg",
+          "namn": "Olivolja"
+        },
+        {
+          "mängd": 0.175,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.0042,
+          "enhet": "kg",
+          "namn": "Jäst"
+        },
+        {
+          "mängd": 0.084,
+          "enhet": "kg",
+          "namn": "Surdeg ",
+          "delrecept": "surdeg-vete"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Grekiskt lantbröd"
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "surdeg-vete"
+  ],
+  "granska": true
+}

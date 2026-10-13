@@ -1,0 +1,32 @@
+{
+  "slug": "surdeg-rag",
+  "titel": "Surdeg råg",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Rågmjlö fint"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "kg",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Recept surdeg råg"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "baugetter",
+  "titel": "Baugetter",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.16,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.003,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.133,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "kg",
+          "namn": "Jäst"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Gör så här",
+    "Blanda de torra ingredienserna. Tillsätt vatten och blanda väl. Degen ska bli klibbig.",
+    "Plasta in skålen och låt den stå i rumstemperatur i 12–18 timmar.",
+    "Sätt ugnen på 225 grader, vanlig ugnsvärme.",
+    "Fodra en ugnsplåt med bakplåtspapper och ställ på bakbordet, mjöla pappret rikligt.",
+    "Ta upp en tredjedel av degen åt gången på bakplåtspappret. ",
+    "Mjöla ytan rikligt och börja tvina och dra i ändarna, forma till en baguette.",
+    " Upprepa samma procedur med resterande deg, du får 3 stycken baguetter på ca 25 cm.",
+    "Låt dem jäsa under en kökshandduk i 15 minuter.",
+    "Grädda baguetterna mitten av ugnen ca 20–25 minuter ",
+    "(beroende på ugn och hur välgräddad skorpa du vill ha).",
+    "Ta ut plåten ur ugnen, lyft upp baguetterna med bakplåtspapper och lägg på galler. ",
+    "Vill du ha mjukare skorpa, täck med en handduk. ",
+    "Låt baguetterna kallna innan du skär upp dem i skivor."
+  ],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "rostbiffrora",
+  "titel": "rostbiffröra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Pickles mixad"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Rostbiff"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "S-Peppar,grov"
+        },
+        {
+          "mängd": 0.0015,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "ROSTBIFFRÖRA"
+  ],
+  "anteckningar": [
+    "1 sats = 1 st sandwich"
+  ],
+  "delrecept": [],
+  "granska": false
+}

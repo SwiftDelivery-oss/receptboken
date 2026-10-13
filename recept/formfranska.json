@@ -1,0 +1,52 @@
+{
+  "slug": "formfranska",
+  "titel": "Formfranska",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "vetemjöl "
+        },
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.007,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "olivolja "
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Formfranska "
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

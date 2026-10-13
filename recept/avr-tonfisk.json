@@ -1,0 +1,81 @@
+{
+  "slug": "avr-tonfisk",
+  "titel": "avr.tonfisk",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1.33,
+          "enhet": "kg",
+          "namn": "Tonfisk ",
+          "delrecept": "tonfisk"
+        },
+        {
+          "mängd": 1.35,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 1.33,
+          "enhet": "kg",
+          "namn": "Paprika röd tärnad"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "kg",
+          "namn": "Matyoghurt Turk"
+        },
+        {
+          "mängd": 0.266,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.031,
+          "enhet": "kg",
+          "namn": "Peppar spansk röd färsk"
+        },
+        {
+          "mängd": 0.027,
+          "enhet": "kg",
+          "namn": "Citron koncentrat"
+        },
+        {
+          "mängd": 0.013,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.007,
+          "enhet": "kg",
+          "namn": "Vitpeppar malen"
+        },
+        {
+          "mängd": 0.008,
+          "enhet": "kg",
+          "namn": "Natriumbensoat"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Förtjockningsm."
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "3,150kg/burk",
+    "TONFISKMOJA  (SSP Arlanda)"
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "tonfisk"
+  ],
+  "granska": true
+}

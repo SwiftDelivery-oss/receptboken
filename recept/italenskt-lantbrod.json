@@ -1,0 +1,60 @@
+{
+  "slug": "italenskt-lantbrod",
+  "titel": "Italenskt lantbröd ",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.34,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.14,
+          "enhet": "kg",
+          "namn": "Rågsikt "
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Olivolja"
+        },
+        {
+          "mängd": 0.305,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.007,
+          "enhet": "kg",
+          "namn": "Jäst"
+        },
+        {
+          "mängd": 0.12,
+          "enhet": "kg",
+          "namn": "Surdeg ",
+          "delrecept": "surdeg-vete"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Italenskt lantbröd"
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "surdeg-vete"
+  ],
+  "granska": true
+}

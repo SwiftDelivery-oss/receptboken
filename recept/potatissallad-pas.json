@@ -1,0 +1,78 @@
+{
+  "slug": "potatissallad-pas",
+  "titel": "POTATISSALLAD PÅS",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2.99,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 1.19,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.057,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.057,
+          "enhet": "kg",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 0.003,
+          "enhet": "kg",
+          "namn": "Gräslök"
+        },
+        {
+          "mängd": 0.007,
+          "enhet": "kg",
+          "namn": "S-peppar"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.083,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.129,
+          "enhet": "kg",
+          "namn": "(Vit lök)"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Natriumb"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "PÅS POTATIS !!",
+    "POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

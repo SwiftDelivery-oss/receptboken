@@ -1,0 +1,73 @@
+{
+  "slug": "grek-pase",
+  "titel": "Grek påse",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2.999,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 0.3,
+          "enhet": "kg",
+          "namn": "Rödlök"
+        },
+        {
+          "mängd": 0.3,
+          "enhet": "kg",
+          "namn": "olja"
+        },
+        {
+          "mängd": 0.028,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.045,
+          "enhet": "kg",
+          "namn": "Vinäger"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "S-peppar"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.045,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.285,
+          "enhet": "kg",
+          "namn": "Svarta Oliver"
+        },
+        {
+          "mängd": 0.675,
+          "enhet": "kg",
+          "namn": "Fårost"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "PÅSPOTATIS",
+    "GREKISK POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

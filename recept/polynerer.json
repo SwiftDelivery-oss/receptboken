@@ -1,0 +1,39 @@
+{
+  "slug": "polynerer",
+  "titel": "Polynerer",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.2,
+          "enhet": "kg",
+          "namn": "Masarin massa"
+        },
+        {
+          "mängd": 0.12,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Ägg vita"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Bland allt länge ca 10 min",
+    "Grädda 170° i 8-14 min",
+    "Massarin massa se flik Massariner"
+  ],
+  "delrecept": [],
+  "granska": true
+}

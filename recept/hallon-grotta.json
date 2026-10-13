@@ -1,0 +1,44 @@
+{
+  "slug": "hallon-grotta",
+  "titel": "Hallon grotta",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1.2,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.6,
+          "enhet": "kg",
+          "namn": "Socker"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Citron"
+        },
+        {
+          "mängd": 1.2,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Hallon Grotta"
+  ],
+  "anteckningar": [
+    "Blanda: Allt"
+  ],
+  "delrecept": [],
+  "granska": true
+}

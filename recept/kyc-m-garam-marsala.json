@@ -1,0 +1,73 @@
+{
+  "slug": "kyc-m-garam-marsala",
+  "titel": "Kyc.m garam marsala",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 4.5,
+          "enhet": "kg",
+          "namn": "Salladskyckling grillad"
+        },
+        {
+          "mängd": 4.3,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 1.2,
+          "enhet": "kg",
+          "namn": "Matyoghurt H1"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Vitlök "
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Garam Marsala"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Peppar spansk röd färsk"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Svartpeppar malen"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "Mynta 1L EU brk"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Natriumbensoat"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "KYCKLING M GARAM MARSALA",
+    "(SSP Arlanda )"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

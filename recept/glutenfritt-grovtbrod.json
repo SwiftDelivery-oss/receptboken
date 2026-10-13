@@ -1,0 +1,92 @@
+{
+  "slug": "glutenfritt-grovtbrod",
+  "titel": "Glutenfritt grovtbröd",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "Blötlägg ca 12 timmar i förväg minst",
+      "ingredienser": [
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Solrosfrön"
+        },
+        {
+          "mängd": 0.0333,
+          "enhet": "kg",
+          "namn": "Linfrön"
+        },
+        {
+          "mängd": 0.035,
+          "enhet": "kg",
+          "namn": "Pumpakärnor "
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.6,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Pyslliumfröskal"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Nyponskalsmjöl"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Boveteflingor"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Sojamjöl"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Sirap mörk"
+        },
+        {
+          "mängd": 0.014,
+          "enhet": "kg",
+          "namn": "Jäst torr"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Brödkrydda"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Glutenfritt ",
+    "Grovtbröd"
+  ],
+  "anteckningar": [
+    "Blanda länge i maskin 10-15 min",
+    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min ",
+    "Inne temp 93-98 grader"
+  ],
+  "delrecept": [],
+  "granska": true
+}

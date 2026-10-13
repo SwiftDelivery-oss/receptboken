@@ -1,0 +1,40 @@
+{
+  "slug": "lax-rora",
+  "titel": "LAX RÖRA",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.4,
+          "enhet": "kg",
+          "namn": "Lax Varmrökt"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "S-Peppar"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

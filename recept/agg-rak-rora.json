@@ -1,0 +1,43 @@
+{
+  "slug": "agg-rak-rora",
+  "titel": "Ägg-räk röra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Ishavsröra",
+          "delrecept": "ishavsrora"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "Räkor"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "ÄGG / RÄK RÖRA"
+  ],
+  "anteckningar": [
+    "1 sats = 1 st sandwich",
+    "1 ägg väger c:a 65 gr"
+  ],
+  "delrecept": [
+    "ishavsrora"
+  ],
+  "granska": true
+}

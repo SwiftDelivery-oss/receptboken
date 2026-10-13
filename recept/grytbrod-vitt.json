@@ -1,0 +1,51 @@
+{
+  "slug": "grytbrod-vitt",
+  "titel": "Grytbröd vitt",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.625,
+          "enhet": "kg",
+          "namn": "vetemjöl "
+        },
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.007,
+          "enhet": "kg",
+          "namn": "torrjäst"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "honung"
+        },
+        {
+          "mängd": 0.6,
+          "enhet": "kg",
+          "namn": "vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Grytbröd vitt "
+  ],
+  "anteckningar": [
+    "Blanda allt i maskin ca 10-15 min lägg över i järngryta låt jäsa över natten ca 12 timmar i kylen",
+    "grädda i ugnen ca 20 min på 250 grader med lock sänk tempraturen till ca 210 grader ",
+    "utan lock i ytligare 10-15 min. "
+  ],
+  "delrecept": [],
+  "granska": false
+}

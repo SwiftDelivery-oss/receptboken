@@ -1,0 +1,55 @@
+{
+  "slug": "mimosasallad",
+  "titel": "Mimosasallad",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1.8,
+          "enhet": "kg",
+          "namn": "Frukt  (1800 gr)"
+        },
+        {
+          "mängd": 2,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.01,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 1.1,
+          "enhet": "liter",
+          "namn": "Spad från burk"
+        },
+        {
+          "mängd": 0.13,
+          "enhet": "kg",
+          "namn": "Majsena"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Mimosallad"
+  ],
+  "anteckningar": [
+    "Kokas och svalna",
+    "1 omg=25 burkar á 200 gr"
+  ],
+  "delrecept": [],
+  "granska": true
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "ragsiktskaka",
+  "titel": "Rågsiktskaka",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "Skållning ",
+      "ingredienser": [
+        {
+          "mängd": 0.041666666667,
+          "enhet": "",
+          "namn": "Rågsikt"
+        },
+        {
+          "mängd": 0.083333333333,
+          "enhet": "",
+          "namn": "Vatten"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.208333333333,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.002166666667,
+          "enhet": "kg",
+          "namn": "Fänkålsfrön"
+        },
+        {
+          "mängd": 0.002833333333,
+          "enhet": "kg",
+          "namn": "Anis"
+        },
+        {
+          "mängd": 0.001666666667,
+          "enhet": "kg",
+          "namn": ""
+        },
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "Homung"
+        },
+        {
+          "mängd": 0.041666666667,
+          "enhet": "kg",
+          "namn": "Vört"
+        },
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "Sirap mörk"
+        },
+        {
+          "mängd": 0.004166666667,
+          "enhet": "kg",
+          "namn": "Havssalt "
+        },
+        {
+          "mängd": 0.009333333333,
+          "enhet": "kg",
+          "namn": "Jäst"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Surdeg vete",
+          "delrecept": "surdeg-vete"
+        },
+        {
+          "mängd": 0.083333333333,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Blanda länge i maskin 10-15 min",
+    "Bakas i runda bitar ca 550g st plattas ut ca 3-4 cm och naggas"
+  ],
+  "delrecept": [
+    "surdeg-vete"
+  ],
+  "granska": true
+}

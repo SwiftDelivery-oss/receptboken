@@ -1,0 +1,40 @@
+{
+  "slug": "veg-rora",
+  "titel": "Veg. röra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.024,
+          "enhet": "kg",
+          "namn": "Kikärtor"
+        },
+        {
+          "mängd": 0.012,
+          "enhet": "kg",
+          "namn": "Pickles "
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Purjo"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "VEG. RÖRA"
+  ],
+  "anteckningar": [
+    "1 sats = 1 st sandwich",
+    "Allt mixas till en bra röra krydda med "
+  ],
+  "delrecept": [],
+  "granska": false
+}

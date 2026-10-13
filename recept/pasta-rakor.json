@@ -1,0 +1,62 @@
+{
+  "slug": "pasta-rakor",
+  "titel": "Pasta Räkor",
+  "kategori": "Kallskuret",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Sallad"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Pasta"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Dressing"
+        },
+        {
+          "mängd": 0.06,
+          "enhet": "kg",
+          "namn": "Räkor"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Ärtor,majs,paprika"
+        },
+        {
+          "mängd": 0.002,
+          "enhet": "st",
+          "namn": "Tomat klyfta"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Ägg halva"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "st",
+          "namn": "Gaffel"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 2,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Pasta sallad Räkor"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

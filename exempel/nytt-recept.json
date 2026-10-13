@@ -1,0 +1,22 @@
+{
+  "slug": "mitt-nya-recept",
+  "titel": "Mitt nya recept",
+  "kategori": "Övriga",
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        { "mängd": 0.5, "enhet": "kg", "namn": "Byt till din ingrediens" },
+        { "mängd": null, "enhet": "efter smak", "namn": "Byt till din krydda" }
+      ]
+    }
+  ],
+  "anteckningar": ["Skriv din egen arbetsbeskrivning här."],
+  "delrecept": [],
+  "granska": false
+}

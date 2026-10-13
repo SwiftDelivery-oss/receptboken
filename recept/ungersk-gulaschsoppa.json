@@ -1,0 +1,125 @@
+{
+  "slug": "ungersk-gulaschsoppa",
+  "titel": "Ungersk gulaschsoppa",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Högrev"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Gul lök"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "klyfta",
+          "namn": "Vitlök"
+        },
+        {
+          "mängd": 0.0375,
+          "enhet": "kg",
+          "namn": "Röd paprika"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Morötter"
+        },
+        {
+          "mängd": 0.0875,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 0.00875,
+          "enhet": "kg",
+          "namn": "Tomatpuré"
+        },
+        {
+          "mängd": 0.05,
+          "enhet": "kg",
+          "namn": "Krossade tomater"
+        },
+        {
+          "mängd": 0.1875,
+          "enhet": "l",
+          "namn": "Köttbuljong"
+        },
+        {
+          "mängd": 0.00375,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "msk",
+          "namn": "Neutral olja"
+        },
+        {
+          "mängd": 0.375,
+          "enhet": "msk",
+          "namn": "Paprikapulver, ungerskt"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "tsk",
+          "namn": "Rökt paprikapulver"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "tsk",
+          "namn": "Hel kummin, lätt stött"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "st",
+          "namn": "Lagerblad"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "tsk",
+          "namn": "Mejram"
+        },
+        {
+          "mängd": 0.1875,
+          "enhet": "tsk",
+          "namn": "Chiliflakes"
+        },
+        {
+          "mängd": 0.125,
+          "enhet": "msk",
+          "namn": "Rödvinsvinäger"
+        },
+        {
+          "mängd": null,
+          "enhet": "efter smak",
+          "namn": "Salt och svartpeppar"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "portioner",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "Gör så här",
+    "1. Bryn köttet: skär högreven i 2–3 cm bitar och bryn i smör och olja, i omgångar. Lägg åt sidan.",
+    "2. Fräs löken: hacka lök och vitlök. Fräs löken 10–15 min tills mjuk och gyllene. Tillsätt vitlök och tomatpuré, fräs 2 min.",
+    "3. Tillsätt kryddorna: dra kastrullen från värmen och rör ner paprikapulver, rökt paprika, kummin och mejram.",
+    "4. Låt köttet sjuda: lägg tillbaka köttet. Tillsätt krossade tomater, buljong, lagerblad och chili. Sjud under lock 1,5–2 tim.",
+    "5. Tillsätt grönsakerna: skär morötter, paprika och potatis i bitar. Lägg i när köttet nästan är mört, sjud 25–35 min.",
+    "6. Smaka av: tillsätt rödvinsvinäger, salt och svartpeppar. Späd med vatten/buljong vid behov.",
+    "Tips",
+    "Använd högrev, låt löken fräsa länge och använd gärna äkta ungerskt paprikapulver. Godast dagen efter. Servera med surdegsbröd och en klick crème fraîche."
+  ],
+  "delrecept": [],
+  "granska": false
+}

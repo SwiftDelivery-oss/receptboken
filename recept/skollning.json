@@ -1,0 +1,35 @@
+{
+  "slug": "skollning",
+  "titel": "Skollning",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.333333333333,
+          "enhet": "kg",
+          "namn": "Rågsikt"
+        },
+        {
+          "mängd": 0.666666666667,
+          "enhet": "kg",
+          "namn": "Vatten"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "kg",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Recept skollning"
+  ],
+  "anteckningar": [
+    "Koka Vatten blanda med mjölet ",
+    "Kör till en jämn smet"
+  ],
+  "delrecept": [],
+  "granska": true
+}

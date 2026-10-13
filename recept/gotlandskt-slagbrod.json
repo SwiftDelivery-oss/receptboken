@@ -1,0 +1,68 @@
+{
+  "slug": "gotlandskt-slagbrod",
+  "titel": "Gotländskt slagbröd",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "Skollning/fördeg",
+      "ingredienser": [
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Rågsikt"
+        },
+        {
+          "mängd": 0.4375,
+          "enhet": "kg",
+          "namn": "kokande Vatten"
+        },
+        {
+          "mängd": 0.00225,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.0015,
+          "enhet": "kg",
+          "namn": "Ättika 12%"
+        }
+      ]
+    },
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.0125,
+          "enhet": "kg",
+          "namn": "blötlägg pomeransskal"
+        },
+        {
+          "mängd": 0.105,
+          "enhet": "kg",
+          "namn": "sirap mörk"
+        },
+        {
+          "mängd": 0.25,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.014,
+          "enhet": "kg",
+          "namn": "Torr jäst"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Gotlänskt slagbröd",
+    "kg st"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

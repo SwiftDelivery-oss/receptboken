@@ -1,0 +1,73 @@
+{
+  "slug": "bullar",
+  "titel": "Bullar",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.18,
+          "enhet": "kg",
+          "namn": "Vetemjöl special"
+        },
+        {
+          "mängd": 0.032,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.0028,
+          "enhet": "kg",
+          "namn": "Jäst"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "socker"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Kardemumma*"
+        },
+        {
+          "mängd": 0.08,
+          "enhet": "kg",
+          "namn": "Mjölk"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Grädde"
+        },
+        {
+          "mängd": 0.0002,
+          "enhet": "g",
+          "namn": "Saffran*"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Bullar "
+  ],
+  "anteckningar": [
+    "Blanda allt låt jäsa i 40-50 min ",
+    "Grädda i ugn 200 grader ca 8-12 min (varm luft)",
+    "*OBS!! Välj bort kardemumma om det är saffrans deg*",
+    "(blanda i russin i slutet som är blötlagda kvällen innan i all deg vätska)",
+    "Blanda i degblandare i ca 10-15 min till en smidig deg "
+  ],
+  "delrecept": [],
+  "granska": true
+}

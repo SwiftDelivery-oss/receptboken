@@ -1,0 +1,45 @@
+{
+  "slug": "lax-phill",
+  "titel": "Lax-phill",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Philadelfia"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Lax"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Gräslök"
+        },
+        {
+          "mängd": 0.001,
+          "enhet": "kg",
+          "namn": "Dionsenap"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "LAX / PHILADELPHIA RÖRA"
+  ],
+  "anteckningar": [
+    "1 sats = 1 st sandwich",
+    "Vatten till en bra röra,"
+  ],
+  "delrecept": [],
+  "granska": true
+}

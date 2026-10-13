@@ -1,0 +1,58 @@
+{
+  "slug": "fransk-pase",
+  "titel": "fransk påse",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 2.999,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 0.26,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "olja"
+        },
+        {
+          "mängd": 0.028,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.22,
+          "enhet": "kg",
+          "namn": "Senap"
+        },
+        {
+          "mängd": 0.004,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.005,
+          "enhet": "kg",
+          "namn": "Vitlök"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "PÅSPOTATIS",
+    "FRANSK POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

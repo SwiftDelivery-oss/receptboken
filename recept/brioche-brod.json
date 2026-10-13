@@ -1,0 +1,58 @@
+{
+  "slug": "brioche-brod",
+  "titel": "Brioche bröd",
+  "kategori": "Bröd",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.55,
+          "enhet": "kg",
+          "namn": "Vetamjöl"
+        },
+        {
+          "mängd": 0.33,
+          "enhet": "kg",
+          "namn": "ägg"
+        },
+        {
+          "mängd": 0.45,
+          "enhet": "kg",
+          "namn": "smör"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "salt"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "socker"
+        },
+        {
+          "mängd": 0.014,
+          "enhet": "kg",
+          "namn": "jäst"
+        },
+        {
+          "mängd": 0.03,
+          "enhet": "kg",
+          "namn": "Mjölk"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "tillsätt smör kallt i bitar i slutet av blandningen av degen ",
+    "grädda på 150 grader "
+  ],
+  "delrecept": [],
+  "granska": true
+}

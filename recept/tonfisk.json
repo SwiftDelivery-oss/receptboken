@@ -1,0 +1,62 @@
+{
+  "slug": "tonfisk",
+  "titel": "Tonfisk",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 3,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 1.34,
+          "enhet": "kg",
+          "namn": "Tonfisk"
+        },
+        {
+          "mängd": 0.75,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "S-Peppar,grov"
+        },
+        {
+          "mängd": 0.045,
+          "enhet": "kg",
+          "namn": "Salt"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "TONFISKRÖRA"
+  ],
+  "anteckningar": [
+    "C:a 15 gr förtjockningspulver per sats.",
+    "Mixa purjon något .",
+    "tonfisk   1/4 sats",
+    "Majonäs ",
+    "750 gr",
+    "Tonfisk",
+    "340 gr",
+    "Purjo",
+    "190 gr",
+    "Sv. Peppar",
+    "5 gr",
+    "Salt",
+    "15 gr",
+    "7,5 gr pulver"
+  ],
+  "delrecept": [],
+  "granska": true
+}

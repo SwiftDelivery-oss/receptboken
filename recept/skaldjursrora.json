@@ -1,0 +1,45 @@
+{
+  "slug": "skaldjursrora",
+  "titel": "Skaldjursröra",
+  "kategori": "Röror",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.64,
+          "enhet": "kg",
+          "namn": "ISHAVSRÖRA",
+          "delrecept": "ishavsrora"
+        },
+        {
+          "mängd": 0.32,
+          "enhet": "kg",
+          "namn": "RÄKOR"
+        },
+        {
+          "mängd": 0.032,
+          "enhet": "kg",
+          "namn": "LÖK"
+        },
+        {
+          "mängd": 0.0032,
+          "enhet": "kg",
+          "namn": "DILL"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "SKALDJURSRÖRA"
+  ],
+  "anteckningar": [],
+  "delrecept": [
+    "ishavsrora"
+  ],
+  "granska": true
+}

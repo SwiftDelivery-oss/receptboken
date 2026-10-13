@@ -1,0 +1,73 @@
+{
+  "slug": "stor-pase",
+  "titel": "stor påse",
+  "kategori": "Övriga",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 19,
+          "enhet": "kg",
+          "namn": "Potatis"
+        },
+        {
+          "mängd": 6.3,
+          "enhet": "kg",
+          "namn": "Majonäs"
+        },
+        {
+          "mängd": 0.378,
+          "enhet": "kg",
+          "namn": "Purjolök"
+        },
+        {
+          "mängd": 0.378,
+          "enhet": "kg",
+          "namn": "Lök"
+        },
+        {
+          "mängd": 0.039,
+          "enhet": "kg",
+          "namn": "S-peppar"
+        },
+        {
+          "mängd": 0.024,
+          "enhet": "kg",
+          "namn": "V-peppar"
+        },
+        {
+          "mängd": 0.057,
+          "enhet": "kg",
+          "namn": "Salt"
+        },
+        {
+          "mängd": 0.498,
+          "enhet": "kg",
+          "namn": "Vatten"
+        },
+        {
+          "mängd": 0.051,
+          "enhet": "kg",
+          "namn": "natriumbensoat"
+        },
+        {
+          "mängd": 0.756,
+          "enhet": "kg",
+          "namn": "Vit lök"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Påse 19 kg",
+    "POTATISSALLAD"
+  ],
+  "anteckningar": [],
+  "delrecept": [],
+  "granska": true
+}

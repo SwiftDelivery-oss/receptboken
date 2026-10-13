@@ -1,0 +1,67 @@
+{
+  "slug": "kallskuret",
+  "titel": "Kallskuret",
+  "kategori": "Kallskuret",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Rostbiff"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Kalkon"
+        },
+        {
+          "mängd": 0.015,
+          "enhet": "kg",
+          "namn": "Lax rökt skivad"
+        },
+        {
+          "mängd": 0.02,
+          "enhet": "kg",
+          "namn": "Skinka"
+        },
+        {
+          "mängd": 0.15,
+          "enhet": "kg",
+          "namn": "Potatissallad"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "1/2st",
+          "namn": "Ägghalva m majo räkor/rom"
+        },
+        {
+          "mängd": 0.08,
+          "enhet": "kg",
+          "namn": "Ishavssallad m räkor"
+        },
+        {
+          "mängd": 0.1,
+          "enhet": "kg",
+          "namn": "Sallad *"
+        },
+        {
+          "mängd": 0.025,
+          "enhet": "kg",
+          "namn": "Dressing "
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "st",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [],
+  "anteckningar": [
+    "* Sallad ,tomat,paprika,gurka."
+  ],
+  "delrecept": [],
+  "granska": true
+}

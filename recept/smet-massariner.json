@@ -1,0 +1,51 @@
+{
+  "slug": "smet-massariner",
+  "titel": "smet massariner",
+  "kategori": "Kakor mm",
+  "ingredienser": [
+    {
+      "rubrik": "",
+      "ingredienser": [
+        {
+          "mängd": 1,
+          "enhet": "kg",
+          "namn": "Mandelmassa"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "kg",
+          "namn": "Smör"
+        },
+        {
+          "mängd": 0.5,
+          "enhet": "L",
+          "namn": "Ägg"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Vetemjöl"
+        },
+        {
+          "mängd": 0.04,
+          "enhet": "kg",
+          "namn": "Socker"
+        }
+      ]
+    }
+  ],
+  "basantal": 1,
+  "skalningsenhet": "sats",
+  "standardantal": 1,
+  "styckstorlek": "",
+  "originalrubriker": [
+    "Smet till massariner"
+  ],
+  "anteckningar": [
+    "Blanda:",
+    "Mandelmassan, Smör, Ägg till en fin smet",
+    "Sedan i med Vetemjöl och socker"
+  ],
+  "delrecept": [],
+  "granska": true
+}
