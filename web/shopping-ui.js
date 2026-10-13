@@ -62,8 +62,8 @@ export async function setupShopping(base) {
     };
     input.addEventListener('input',commit);
     input.addEventListener('blur',()=>{if(control.pendingZero){control.pendingZero=false;onChange(0,control);}else if(input.getAttribute('aria-invalid')==='true'){input.setAttribute('aria-invalid','false');input.value=String(current(recipe.slug,control.variant)).replace('.',',');$('#shopping-status').textContent='';updateActions();}});
-    minus.addEventListener('click',()=>onChange(steppedCount(current(recipe.slug,control.variant),-1),control));
-    plus.addEventListener('click',()=>onChange(steppedCount(current(recipe.slug,control.variant),1),control));
+    minus.addEventListener('click',()=>{onChange(steppedCount(current(recipe.slug,control.variant),-1),control);control.sync();});
+    plus.addEventListener('click',()=>{onChange(steppedCount(current(recipe.slug,control.variant),1),control);control.sync();});
     wrapper.append(minus,input,plus);control.sync();return control;
   };
   const disableActions=()=>{for(const id of ['shopping-print','shopping-copy','shopping-share','shopping-link'])$('#'+id).disabled=true;};
