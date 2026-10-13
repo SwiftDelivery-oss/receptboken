@@ -147,3 +147,11 @@ Lägg till sidan på hemskärmen med webbläsarens funktion. Dela använder tele
 
 Originalets stavning är bevarad. Webbplatsen har semantisk HTML, svenska etiketter, tangentbordsstöd, synliga fokusmarkeringar, hög kontrast och stora tryckytor. Inga tredjepartsanrop sker från sidan.
 # receptboken
+# Mobilknappar, delningslänkar och degvikt
+
+Inköpslistans knappar visar bara ikoner på små skärmar. Knappnamnen finns kvar för skärmläsare. Delade listor använder det kortare formatet `?r=formfranska:3,honokaka:2`; äldre `?val=...`-länkar fungerar fortfarande.
+
+För bröd som skalas i stycken visas degvikt per styck, beräknad genom att summera ingrediensernas vikt och dela med basantalet. Vikten ändras inte när antalet bröd ändras. Saknade mängder, volymenheter och okända enheter ger en tydlig markering i stället för en uppskattning. Uppgiften följer med vid utskrift av recepten.
+
+ha.mr är ännu inte integrerat: tjänsten kunde inte verifieras vid kontrollen. Delningslänkarna fungerar direkt utan en extern förkortningstjänst.
+

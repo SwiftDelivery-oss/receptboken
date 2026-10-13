@@ -170,13 +170,21 @@ def build(base, dest):
         original = ' · '.join(x for x in r.get('originalrubriker',[]) if x.strip().casefold()!=r['titel'].strip().casefold())
         original = f'<p class="original-title">{h(original)}</p>' if original else ''
         size = f' à {h(r["styckstorlek"])}' if r.get('styckstorlek') else ''
+        dough = ''
+        if r['kategori'] == 'Bröd' and u == 'st':
+            first = next((g.get('variant') for g in r['ingredienser'] if g.get('variant')), None)
+            ingredients = [i for g in r['ingredienser'] if not g.get('variant') or g.get('variant') == first for i in g['ingredienser']]
+            complete = ingredients and all(i['mängd'] is not None and i['enhet'].strip().lower() in {'g','gr','kg'} for i in ingredients)
+            weight = sum(i['mängd'] * (1000 if i['enhet'].strip().lower() == 'kg' else 1) for i in ingredients) / r['basantal'] if complete else None
+            text = formatted(weight, 'g') + ' (beräknad från ingredienserna)' if complete else 'Kan inte beräknas – mängd eller viktenhet saknas.'
+            dough = '<p id="dough-weight" class="dough-weight">Degvikt per styck: '+h(text)+'</p>'
         label = {'st':'Antal','portioner':'Antal portioner','portion':'Antal portioner','kg':'Mängd i kg'}.get(u,'Antal satser')
         recipe_html = f'''<article class="recipe container"><nav class="breadcrumb" aria-label="Brödsmulor"><a href="{url()}">Alla recept</a><span aria-hidden="true">/</span><a href="{url('#kategori-'+str(CATEGORIES.index(r['kategori'])))}">{h(r['kategori'])}</a></nav>
 <div class="recipe-heading"><span class="eyebrow">{h(r['kategori'])}</span><h1>{h(r['titel'])}</h1>{original}
 <div class="recipe-actions">{shopping_control(r,count,True)}<button class="button" id="share">Dela recept {ARROW}</button><button class="button" id="copy-link">Kopiera länk</button><button class="button" id="print">Skriv ut</button></div><p id="share-status" role="status" aria-live="polite"></p></div>
 <div class="recipe-layout"><section class="ingredients-panel"><div class="ingredients-heading"><h2>Ingredienser</h2><span id="yield" class="yield">{h(str(count))} {h(u)}{size}</span></div>
 <div class="scaling"><label for="amount">{label}</label><div class="stepper"><button id="decrease" aria-label="Minska antal">−</button><input id="amount" type="text" inputmode="decimal" value="{h(str(count))}" aria-describedby="scaling-help scaling-error" autocomplete="off"><button id="increase" aria-label="Öka antal">+</button></div><p id="scaling-help">Ändra antalet så räknas mängderna om.</p><p id="scaling-error" class="error" role="alert" hidden>Ange ett antal större än 0, högst 1 000 000.</p>{selector}</div>
-{''.join(groups_html)}<noscript><p>Aktivera JavaScript för att ändra antalet. Listan visar {count} {h(u)}. Alla alternativa tabeller visas.</p></noscript></section>
+{dough}{''.join(groups_html)}<noscript><p>Aktivera JavaScript för att ändra antalet. Listan visar {count} {h(u)}. Alla alternativa tabeller visas.</p></noscript></section>
 <div class="method-column"><section class="method"><span class="eyebrow">I KÖKET</span><h2>Anteckningar &amp; instruktioner</h2><div class="notes">{notes}</div></section>{related}{review}</div></div>
 <div class="back-to-recipes"><a href="{url('#recept')}">← Tillbaka till alla recept</a></div></article>'''
         target = dest/'recept'/r['slug']

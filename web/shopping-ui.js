@@ -2,6 +2,7 @@ import {parseAmount,formatAmount} from './scale.js';
 import {aggregateShopping} from './shopping.js';
 import {cleanSelections,setSelectionCount,selectionKey,steppedCount} from './shopping-store.js';
 import {renderPrintRecipes} from './shopping-print.js';
+import {encodeSelections,decodeSelections} from './shopping-links.js';
 
 const LIST='<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M9 5h10v16H5V5h2M9 3h6v4H9zM9 11l1 1 2-2m2 1h2m-7 5 1 1 2-2m2 1h2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 
@@ -16,8 +17,8 @@ export async function setupShopping(base) {
   let selections=[],checked=new Set(),expand=true;
   try{selections=cleanSelections(JSON.parse(localStorage.getItem(storageKey)||'[]'),recipes);}catch{}
   try{const saved=JSON.parse(localStorage.getItem(storageKey+':avbockat')||'[]');if(Array.isArray(saved))checked=new Set(saved);expand=localStorage.getItem(storageKey+':delrecept')!=='nej';}catch{}
-  if(standalone&&params.has('val')){
-    try{selections=cleanSelections(JSON.parse(params.get('val')),recipes);}catch{selections=[];}
+  if(standalone&&(params.has('r')||params.has('val'))){
+    try{selections=cleanSelections(params.has('r')?decodeSelections(params.get('r')):JSON.parse(params.get('val')),recipes);}catch{selections=[];}
     expand=params.get('delrecept')!=='nej';checked.clear();
   }
   // Accept links from the previous version, then remove the one-time action.
@@ -33,7 +34,7 @@ export async function setupShopping(base) {
   let result={items:[],warnings:[]};
   const rowKey=item=>item.namn.toLocaleLowerCase('sv')+'|'+item.enhet+'|'+item.källor.join('|');
   const current=(slug,variant)=>selections.find(s=>selectionKey(s.slug,s.variant)===selectionKey(slug,variant))?.antal||0;
-  const shareUrl=()=>{const url=new URL(base+'inkopslista/',location.origin);url.searchParams.set('val',JSON.stringify(selections));if(!expand)url.searchParams.set('delrecept','nej');return url.href;};
+  const shareUrl=()=>{const url=new URL(base+'inkopslista/',location.origin);url.search='?r='+encodeSelections(selections)+(expand?'':'&delrecept=nej');return url.href;};
   const save=()=>{
     try{localStorage.setItem(storageKey,JSON.stringify(selections));localStorage.setItem(storageKey+':avbockat',JSON.stringify([...checked]));localStorage.setItem(storageKey+':delrecept',expand?'ja':'nej');}catch{}
     if(standalone){const url=new URL(shareUrl());history.replaceState(null,'',url.pathname+url.search);}

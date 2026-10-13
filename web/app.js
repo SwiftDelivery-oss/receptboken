@@ -1,5 +1,6 @@
 import { parseAmount, formatAmount, scaledAmount } from './scale.js';
 import { setupShopping } from './shopping-ui.js';
+import {doughLabel} from './dough.js';
 
 const $ = (selector) => document.querySelector(selector);
 const base = document.body.dataset.base;
@@ -78,6 +79,7 @@ if (document.body.dataset.page === 'recipe' && data) {
       }
     });
     $('#yield').textContent = `${String(count).replace('.', ',')} ${data.skalningsenhet}${data.styckstorlek ? ' à ' + data.styckstorlek : ''}`;
+    if($('#dough-weight'))$('#dough-weight').textContent=doughLabel(data,variant?.value);
     document.querySelectorAll('[data-variant]').forEach((group) => { group.hidden = !!variant && group.dataset.variant !== variant.value; });
     $('#decrease').disabled = count <= 1;
     $('#increase').disabled = count >= 1000000;
