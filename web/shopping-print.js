@@ -116,11 +116,19 @@ export function renderPrintRecipes(
     const methodTitle = document.createElement("h3");
     methodTitle.textContent = "Anteckningar och instruktioner";
     instructions.append(methodTitle);
-    for (const point of recipe.granskningspunkter) {
-      const p = document.createElement("p");
-      p.className = "review-note";
-      p.textContent = "Kontrollera: " + point;
-      instructions.append(p);
+    if (recipe.granskningspunkter.length) {
+      const review = document.createElement("aside");
+      review.className = "review-note";
+      const heading = document.createElement("h4");
+      heading.textContent = "Kontrollera receptuppgifterna";
+      const list = document.createElement("ul");
+      for (const point of recipe.granskningspunkter) {
+        const item = document.createElement("li");
+        item.textContent = point;
+        list.append(item);
+      }
+      review.append(heading, list);
+      instructions.append(review);
     }
     for (const note of recipe.anteckningar.length
       ? recipe.anteckningar

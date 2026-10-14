@@ -9,6 +9,7 @@ import {
 import { renderPrintRecipes } from "./shopping-print.js";
 import { shoppingUrl, decodeSelections } from "./shopping-links.js";
 import { retainChecked, itemKey } from "./shopping-state.js";
+import { reviewPoints } from "./review.js";
 
 const LIST =
   '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M9 5h10v16H5V5h2M9 3h6v4H9zM9 11l1 1 2-2m2 1h2m-7 5 1 1 2-2m2 1h2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
@@ -19,6 +20,11 @@ export async function setupShopping(base) {
   if (!response.ok) throw Error("Dataladdning misslyckades");
   const recipes = await response.json();
   const lookup = new Map(recipes.map((r) => [r.slug, r]));
+  const recipeReviewWarnings = new Set(
+    recipes.flatMap((recipe) =>
+      reviewPoints(recipe).map((point) => `${recipe.titel.trim()}: ${point}`),
+    ),
+  );
   const storageKey = "receptboken-inkopslista:" + base;
   const dialog = $("#shopping-dialog");
   const standalone = document.body.dataset.page === "shopping";
@@ -421,6 +427,10 @@ export async function setupShopping(base) {
     const warnings = $("#shopping-warnings");
     warnings.replaceChildren();
     warnings.hidden = !result.warnings.length;
+    warnings.classList.toggle(
+      "only-recipe-reviews",
+      result.warnings.every((warning) => recipeReviewWarnings.has(warning)),
+    );
     if (result.warnings.length) {
       const title = document.createElement("h3");
       title.textContent = "Kontrollera dessa uppgifter";
@@ -428,6 +438,8 @@ export async function setupShopping(base) {
       for (const warning of result.warnings) {
         const p = document.createElement("p");
         p.textContent = warning;
+        if (recipeReviewWarnings.has(warning))
+          p.className = "recipe-review-warning";
         warnings.append(p);
       }
     }
