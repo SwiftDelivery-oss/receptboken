@@ -1,6 +1,6 @@
 {
   "slug": "baugetter",
-  "titel": "Baugetter",
+  "titel": "Baguetter",
   "kategori": "Bröd",
   "ingredienser": [
     {
@@ -40,16 +40,20 @@
     "Plasta in skålen och låt den stå i rumstemperatur i 12–18 timmar.",
     "Sätt ugnen på 225 grader, vanlig ugnsvärme.",
     "Fodra en ugnsplåt med bakplåtspapper och ställ på bakbordet, mjöla pappret rikligt.",
-    "Ta upp en tredjedel av degen åt gången på bakplåtspappret. ",
-    "Mjöla ytan rikligt och börja tvina och dra i ändarna, forma till en baguette.",
-    " Upprepa samma procedur med resterande deg, du får 3 stycken baguetter på ca 25 cm.",
+    "Ta upp en tredjedel av degen åt gången på bakplåtspappret.",
+    "Mjöla ytan rikligt och börja tvinna och dra i ändarna, forma till en baguette.",
+    "Upprepa samma procedur med resterande deg, du får 3 stycken baguetter på ca 25 cm.",
     "Låt dem jäsa under en kökshandduk i 15 minuter.",
-    "Grädda baguetterna mitten av ugnen ca 20–25 minuter ",
+    "Grädda baguetterna mitten av ugnen ca 20–25 minuter",
     "(beroende på ugn och hur välgräddad skorpa du vill ha).",
-    "Ta ut plåten ur ugnen, lyft upp baguetterna med bakplåtspapper och lägg på galler. ",
-    "Vill du ha mjukare skorpa, täck med en handduk. ",
+    "Ta ut plåten ur ugnen, lyft upp baguetterna med bakplåtspapper och lägg på galler.",
+    "Vill du ha mjukare skorpa, täck med en handduk.",
     "Låt baguetterna kallna innan du skär upp dem i skivor."
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas."
+  ],
+  "id": 6
 }

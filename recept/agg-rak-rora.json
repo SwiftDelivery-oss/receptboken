@@ -1,6 +1,6 @@
 {
   "slug": "agg-rak-rora",
-  "titel": "Ägg-räk röra",
+  "titel": "Ägg- och räkröra",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -39,5 +39,9 @@
   "delrecept": [
     "ishavsrora"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: ÄGG / RÄK RÖRA"
+  ],
+  "id": 1
 }

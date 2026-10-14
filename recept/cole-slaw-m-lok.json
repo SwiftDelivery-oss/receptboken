@@ -9,12 +9,12 @@
         {
           "mängd": 0.6,
           "enhet": "kg",
-          "namn": "Vitlkål"
+          "namn": "Vitkål"
         },
         {
           "mängd": 0.25,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.1,
@@ -58,5 +58,10 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: COLE SLAW"
+  ],
+  "id": 12
 }

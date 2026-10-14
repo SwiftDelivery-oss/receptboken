@@ -1,6 +1,6 @@
 {
   "slug": "lax-rora",
-  "titel": "LAX RÖRA",
+  "titel": "LAXRÖRA",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -9,7 +9,7 @@
         {
           "mängd": 1,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.4,
@@ -36,5 +36,9 @@
   "originalrubriker": [],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 39
 }

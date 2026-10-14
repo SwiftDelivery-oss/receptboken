@@ -24,7 +24,7 @@
         {
           "mängd": 4,
           "enhet": "st",
-          "namn": "vitlök klyftor"
+          "namn": "vitlöksklyftor"
         },
         {
           "mängd": 0.004,
@@ -43,5 +43,10 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Frissås stark"
+  ],
+  "id": 15
 }

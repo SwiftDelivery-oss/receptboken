@@ -39,12 +39,12 @@
         {
           "mängd": 2,
           "enhet": "st ",
-          "namn": "vitlöks klyftor"
+          "namn": "vitlöksklyftor"
         },
         {
           "mängd": 2,
           "enhet": "dl",
-          "namn": "Cremfrach"
+          "namn": "Crème fraiche"
         }
       ]
     }
@@ -54,13 +54,18 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Biff gryta ",
-    "1 portion = 4 portioner "
+    "Biff gryta",
+    "1 portion = 4 portioner"
   ],
   "anteckningar": [
-    "Koka biffen i 10-15 min i vatten tillsätt resten låt skjuda i 5-10 min ",
-    "servera med ris eller potatis "
+    "Koka biffen i 10-15 min i vatten tillsätt resten låt sjuda i 5-10 min",
+    "servera med ris eller potatis"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: Biff gryta  / 1 portion = 4 portioner ",
+    "Originalet säger ”1 portion = 4 portioner”. Skalningen följer en original-sats; utbytet är osäkert."
+  ],
+  "id": 7
 }

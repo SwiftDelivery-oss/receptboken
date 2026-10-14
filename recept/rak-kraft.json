@@ -24,7 +24,7 @@
         {
           "mängd": 0.3,
           "enhet": "kg",
-          "namn": "Majzena"
+          "namn": "Maizena"
         },
         {
           "mängd": 0.012,
@@ -44,7 +44,7 @@
         {
           "mängd": 0.012,
           "enhet": "st",
-          "namn": "Sparris spad"
+          "namn": "Sparrisspad"
         },
         {
           "mängd": 0.54,
@@ -68,5 +68,13 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 8: liten mängd 0.012 st för ”Salt”; kontrollera enheten.",
+    "Rad 11: liten mängd 0.012 st för ”Sparris spad”; kontrollera enheten.",
+    "Rad 13: liten mängd 0.015 st för ”Dill”; kontrollera enheten.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Räk & Kräft röra"
+  ],
+  "id": 60
 }

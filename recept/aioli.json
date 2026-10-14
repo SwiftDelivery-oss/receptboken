@@ -9,7 +9,7 @@
         {
           "mängd": 0.231,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.023,
@@ -36,5 +36,9 @@
   "originalrubriker": [],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 2
 }

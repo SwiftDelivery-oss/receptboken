@@ -19,7 +19,7 @@
         {
           "mängd": 0.15,
           "enhet": "kg",
-          "namn": "Råg kross "
+          "namn": "Rågkross"
         },
         {
           "mängd": 0.02,
@@ -44,12 +44,12 @@
         {
           "mängd": 0.1,
           "enhet": "kg",
-          "namn": "Rågmjöl grovt "
+          "namn": "Rågmjöl grovt"
         },
         {
           "mängd": 0.00833,
           "enhet": "kg",
-          "namn": "Jäst torr"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 0.1,
@@ -60,7 +60,7 @@
         {
           "mängd": 0.16,
           "enhet": "kg",
-          "namn": "skollat rågmjöl fint",
+          "namn": "skållat rågmjöl fint",
           "delrecept": "skollning-ragmjol-fint"
         }
       ]
@@ -71,19 +71,24 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Rågbröd ",
+    "Rågbröd",
     "3 satser = 3 bröd ca 1,1 kg st"
   ],
   "anteckningar": [
-    "OBS! Kolla fördelningen mjöl och vatten till skollning (FLIK Skollning rågmjöl fint)",
+    "OBS! Kolla fördelningen mjöl och vatten till skållning (FLIK Skållning rågmjöl fint)",
     "Blanda länge i maskin 10-15 min",
-    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min ",
-    "Inne temp 93-98 grader",
-    "Topping Vetekli "
+    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min",
+    "Innertemperatur 93-98 grader",
+    "Topping Vetekli"
   ],
   "delrecept": [
     "skollning-ragmjol-fint",
     "surdeg-rag"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas.",
+    "Avvikande/extra rubriktext bevarad: Rågbröd  / 3 satser = 3 bröd ca 1,1 kg st"
+  ],
+  "id": 57
 }

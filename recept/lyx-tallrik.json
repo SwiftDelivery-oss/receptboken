@@ -1,6 +1,6 @@
 {
   "slug": "lyx-tallrik",
-  "titel": "Lyx tallrik",
+  "titel": "Lyxtallrik",
   "kategori": "Övriga",
   "ingredienser": [
     {
@@ -51,12 +51,12 @@
         {
           "mängd": 0.025,
           "enhet": "kg",
-          "namn": "Skaldjurs paté"
+          "namn": "Skaldjurspaté"
         },
         {
           "mängd": 0.02,
           "enhet": "kg",
-          "namn": "Peppar salami"
+          "namn": "Pepparsalami"
         },
         {
           "mängd": 0.025,
@@ -101,17 +101,24 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "LYX TALLRIK",
+    "LYXTALLRIK",
     "(landgångsform)",
     "Jimmy"
   ],
   "anteckningar": [
     "Sallad,tomater som dek.",
-    "LYX TALLRIK",
+    "LYXTALLRIK",
     "(rund form)",
-    "Dill eller Persilja kvist",
+    "Dill eller Persiljekvist",
     "ej gaffel"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 26: ”Sallad i botten” har ingen mängd; lämnad tom.",
+    "Alternativa tabeller visas som valbara varianter. Granska basantal och vilka anteckningar som hör till respektive variant.",
+    "Avvikande/extra rubriktext bevarad: (landgångsform) / Jimmy",
+    "Delrecept för ”Potatissallad” är inte entydigt identifierat; ingen länk gissad."
+  ],
+  "id": 41
 }

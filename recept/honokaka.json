@@ -9,7 +9,7 @@
         {
           "mängd": 0.16,
           "enhet": "kg",
-          "namn": "Vetemjöl "
+          "namn": "Vetemjöl"
         },
         {
           "mängd": 0.16,
@@ -50,8 +50,10 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "Finger varm mjölk"
+    "Fingervarm mjölk"
   ],
   "delrecept": [],
-  "granska": false
+  "granska": false,
+  "id": 29,
+  "granskningspunkter": []
 }

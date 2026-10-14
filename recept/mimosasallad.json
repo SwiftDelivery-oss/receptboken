@@ -14,7 +14,7 @@
         {
           "mängd": 2,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.01,
@@ -34,7 +34,7 @@
         {
           "mängd": 0.13,
           "enhet": "kg",
-          "namn": "Majsena"
+          "namn": "Maizena"
         }
       ]
     }
@@ -51,5 +51,9 @@
     "1 omg=25 burkar á 200 gr"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: Mimosallad"
+  ],
+  "id": 42
 }

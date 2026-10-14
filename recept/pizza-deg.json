@@ -1,6 +1,6 @@
 {
   "slug": "pizza-deg",
-  "titel": "Pizza deg",
+  "titel": "Pizzadeg",
   "kategori": "Övriga",
   "ingredienser": [
     {
@@ -20,7 +20,7 @@
         {
           "mängd": 0.08,
           "enhet": "g",
-          "namn": "Torr jäst"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 165.63,
@@ -46,7 +46,7 @@
         {
           "mängd": 0.08,
           "enhet": "g",
-          "namn": "Torr jäst"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 163.7,
@@ -68,5 +68,10 @@
     "Obs! kallt vatten"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Alternativa tabeller visas som valbara varianter. Granska basantal och vilka anteckningar som hör till respektive variant.",
+    "Avvikande/extra rubriktext bevarad: 1 sats = 1 pizza = 280 g"
+  ],
+  "id": 50
 }

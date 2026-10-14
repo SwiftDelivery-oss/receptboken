@@ -24,7 +24,7 @@
         {
           "mängd": 0.01,
           "enhet": "kg",
-          "namn": "Vanilj pulver"
+          "namn": "Vaniljpulver"
         },
         {
           "mängd": 0.2,
@@ -45,12 +45,16 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "Blanda: Ägg, socker fluffigt vitt ",
-    "Blanda: vetemjöl, bakpulver ",
+    "Blanda: Ägg, socker fluffigt vitt",
+    "Blanda: vetemjöl, bakpulver",
     "Vänd ner mjölblandningen i smeten försiktigt",
     "Häll på en plåt med bakplåtspapper",
-    "Grädda i varluft: 170° i ca 7 min "
+    "Grädda i varmluft: 170° i ca 7 min"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 64
 }

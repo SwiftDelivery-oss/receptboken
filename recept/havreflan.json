@@ -1,6 +1,6 @@
 {
   "slug": "havreflan",
-  "titel": "Havreflan",
+  "titel": "Havreflarn",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -39,7 +39,7 @@
         {
           "mängd": 0.005,
           "enhet": "kg",
-          "namn": "Bakpullver"
+          "namn": "Bakpulver"
         }
       ]
     }
@@ -56,5 +56,10 @@
     "Grädda i 160° i ca kolla"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet.",
+    "Ingrediensen ”Havreflan” behöver identifieras. Bekräfta om originalet avser havregryn eller något annat; ingen ingrediens har ersatts på antagande."
+  ],
+  "id": 28
 }

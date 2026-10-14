@@ -1,6 +1,6 @@
 {
   "slug": "skink-rora",
-  "titel": "Skink röra",
+  "titel": "Skinkröra",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -9,12 +9,12 @@
         {
           "mängd": 0.015,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.01,
           "enhet": "kg",
-          "namn": "Boston gurka"
+          "namn": "Bostongurka"
         },
         {
           "mängd": 0.015,
@@ -24,7 +24,7 @@
         {
           "mängd": 0.002,
           "enhet": "kg",
-          "namn": "Dionsenap"
+          "namn": "Dijonsenap"
         }
       ]
     }
@@ -34,11 +34,13 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "SKINK RÖRA"
+    "SKINKRÖRA"
   ],
   "anteckningar": [
     "1 sats = 1 st sandwich"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": false,
+  "granskningspunkter": [],
+  "id": 68
 }

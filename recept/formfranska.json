@@ -9,7 +9,7 @@
         {
           "mängd": 0.5,
           "enhet": "kg",
-          "namn": "vetemjöl "
+          "namn": "vetemjöl"
         },
         {
           "mängd": 0.0125,
@@ -24,7 +24,7 @@
         {
           "mängd": 0.025,
           "enhet": "kg",
-          "namn": "olivolja "
+          "namn": "olivolja"
         },
         {
           "mängd": 0.005,
@@ -44,9 +44,13 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Formfranska "
+    "Formfranska"
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 16
 }

@@ -14,7 +14,7 @@
         {
           "mängd": 2.57,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.154,
@@ -49,7 +49,7 @@
         {
           "mängd": 0.308,
           "enhet": "kg",
-          "namn": "(Vit lök)"
+          "namn": "(Vitlök)"
         },
         {
           "mängd": 0.021,
@@ -69,5 +69,10 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: POTATISSALLAD / Burk 7,7 kg"
+  ],
+  "id": 53
 }

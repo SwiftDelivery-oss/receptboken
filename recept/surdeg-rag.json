@@ -9,7 +9,7 @@
         {
           "mängd": 0.5,
           "enhet": "kg",
-          "namn": "Rågmjlö fint"
+          "namn": "Rågmjöl fint"
         },
         {
           "mängd": 0.5,
@@ -28,5 +28,12 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Delrecept normaliserat till 1 kg med formelns proportioner. Kontrollera att detta är önskad skalningsenhet.",
+    "Kategorin saknas i beställningsfliken; placerad i Övriga.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Recept surdeg råg"
+  ],
+  "id": 74
 }

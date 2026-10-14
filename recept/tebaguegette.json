@@ -1,6 +1,6 @@
 {
   "slug": "tebaguegette",
-  "titel": "Tebaguegette",
+  "titel": "Tebaguette",
   "kategori": "Bröd",
   "ingredienser": [
     {
@@ -9,7 +9,7 @@
         {
           "mängd": 0.0433,
           "enhet": "kg",
-          "namn": "vetemjöl "
+          "namn": "vetemjöl"
         },
         {
           "mängd": 0.00066,
@@ -29,7 +29,7 @@
         {
           "mängd": 0.002,
           "enhet": "kg",
-          "namn": "Socket"
+          "namn": "Socker"
         },
         {
           "mängd": 0.01111,
@@ -53,9 +53,14 @@
   ],
   "anteckningar": [
     "Blanda i maskin 10 min låt vila 30 min",
-    "Dela degen i 80g bitar ",
+    "Dela degen i 80g bitar",
     "Forma avlånga små bröd"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Kategorin hämtad via avvikande namn ”Tebaguette” i beställningsfliken.",
+    "Avvikande/extra rubriktext bevarad: Tebaguette"
+  ],
+  "id": 76
 }

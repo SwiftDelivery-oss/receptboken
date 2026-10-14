@@ -19,7 +19,7 @@
         {
           "mängd": 0.035,
           "enhet": "kg",
-          "namn": "Pumpakärnor "
+          "namn": "Pumpakärnor"
         },
         {
           "mängd": 0.02,
@@ -39,7 +39,7 @@
         {
           "mängd": 0.025,
           "enhet": "kg",
-          "namn": "Pyslliumfröskal"
+          "namn": "Psylliumfröskal"
         },
         {
           "mängd": 0.02,
@@ -64,7 +64,7 @@
         {
           "mängd": 0.014,
           "enhet": "kg",
-          "namn": "Jäst torr"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 0.01,
@@ -79,14 +79,20 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Glutenfritt ",
+    "Glutenfritt",
     "Grovtbröd"
   ],
   "anteckningar": [
     "Blanda länge i maskin 10-15 min",
-    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min ",
-    "Inne temp 93-98 grader"
+    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min",
+    "Innertemperatur 93-98 grader"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas.",
+    "Avvikande/extra rubriktext bevarad: Glutenfritt  / Grovtbröd",
+    "Misstänkt stavning ”Pysllium”. Originalet är inte rättat."
+  ],
+  "id": 21
 }

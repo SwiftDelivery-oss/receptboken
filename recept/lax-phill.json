@@ -9,7 +9,7 @@
         {
           "mängd": 0.025,
           "enhet": "kg",
-          "namn": "Philadelfia"
+          "namn": "Philadelphia"
         },
         {
           "mängd": 0.015,
@@ -24,7 +24,7 @@
         {
           "mängd": 0.001,
           "enhet": "kg",
-          "namn": "Dionsenap"
+          "namn": "Dijonsenap"
         }
       ]
     }
@@ -41,5 +41,9 @@
     "Vatten till en bra röra,"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: LAX / PHILADELPHIA RÖRA"
+  ],
+  "id": 38
 }

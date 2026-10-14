@@ -9,7 +9,7 @@
         {
           "mängd": 0.625,
           "enhet": "kg",
-          "namn": "vetemjöl "
+          "namn": "vetemjöl"
         },
         {
           "mängd": 0.0125,
@@ -39,13 +39,15 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Grytbröd vitt "
+    "Grytbröd vitt"
   ],
   "anteckningar": [
     "Blanda allt i maskin ca 10-15 min lägg över i järngryta låt jäsa över natten ca 12 timmar i kylen",
-    "grädda i ugnen ca 20 min på 250 grader med lock sänk tempraturen till ca 210 grader ",
-    "utan lock i ytligare 10-15 min. "
+    "grädda i ugnen ca 20 min på 250 grader med lock sänk temperaturen till ca 210 grader",
+    "utan lock i ytterligare 10-15 min."
   ],
   "delrecept": [],
-  "granska": false
+  "granska": false,
+  "id": 26,
+  "granskningspunkter": []
 }

@@ -9,13 +9,13 @@
         {
           "mängd": 1.33,
           "enhet": "kg",
-          "namn": "Tonfisk ",
+          "namn": "Tonfisk",
           "delrecept": "tonfisk"
         },
         {
           "mängd": 1.35,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 1.33,
@@ -40,7 +40,7 @@
         {
           "mängd": 0.027,
           "enhet": "kg",
-          "namn": "Citron koncentrat"
+          "namn": "Citronkoncentrat"
         },
         {
           "mängd": 0.013,
@@ -77,5 +77,10 @@
   "delrecept": [
     "tonfisk"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: 3,150kg/burk / TONFISKMOJA  (SSP Arlanda)"
+  ],
+  "id": 4
 }

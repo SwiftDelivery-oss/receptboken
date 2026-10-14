@@ -1,6 +1,6 @@
 {
   "slug": "grekiskt-lantbrod",
-  "titel": "Grekiskt lantbröd ",
+  "titel": "Grekiskt lantbröd",
   "kategori": "Bröd",
   "ingredienser": [
     {
@@ -34,7 +34,7 @@
         {
           "mängd": 0.084,
           "enhet": "kg",
-          "namn": "Surdeg ",
+          "namn": "Surdeg",
           "delrecept": "surdeg-vete"
         }
       ]
@@ -51,5 +51,11 @@
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "”Surdeg” länkas till Surdeg vete med stöd av beställningsflikens J7-formel."
+  ],
+  "id": 24
 }

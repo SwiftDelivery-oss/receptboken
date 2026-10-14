@@ -34,7 +34,7 @@
         {
           "mängd": 0.014,
           "enhet": "kg",
-          "namn": "Hjortonsalt"
+          "namn": "Hjorthornssalt"
         }
       ]
     }
@@ -48,5 +48,10 @@
     "Blanda allt med krok tills den är en fin deg ganska hård"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 10: olika enheter i bas och uppskalning (L / kg). Basenheten behållen.",
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 43
 }

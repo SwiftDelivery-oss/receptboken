@@ -1,6 +1,6 @@
 {
   "slug": "kongress-massa",
-  "titel": "Kongress massa",
+  "titel": "Kongressmassa",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -54,14 +54,18 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Kongressmassa/Pajdeg till "
+    "Kongressmassa/Pajdeg till"
   ],
   "anteckningar": [
     "Blanda allt i en bunke låt stå i kylen över natten",
     "Blanda allt men inte för länge men den ska gå ihop",
     "Fyll formar med pajdeg och en klick vaniljkräm sedan kongressmassan grädda i 170° ca 8-10 min",
-    "OBS!! Vanljkrämen måste vara kokbar"
+    "OBS!! Vaniljkrämen måste vara kokbar"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: Kongressmassa/Pajdeg till "
+  ],
+  "id": 35
 }

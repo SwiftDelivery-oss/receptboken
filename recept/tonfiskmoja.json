@@ -9,13 +9,13 @@
         {
           "mängd": 1.9,
           "enhet": "kg",
-          "namn": "Tonfisk ",
+          "namn": "Tonfisk",
           "delrecept": "tonfisk"
         },
         {
           "mängd": 0.95,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 1.9,
@@ -25,7 +25,7 @@
         {
           "mängd": 0.95,
           "enhet": "kg",
-          "namn": "Creme Fraiche 34 % PH"
+          "namn": "Crème fraiche 34 % PH"
         },
         {
           "mängd": 0.38,
@@ -40,7 +40,7 @@
         {
           "mängd": 0.038,
           "enhet": "kg",
-          "namn": "Citron koncentrat"
+          "namn": "Citronkoncentrat"
         },
         {
           "mängd": 0.019,
@@ -76,5 +76,10 @@
   "delrecept": [
     "tonfisk"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: TONFISKMOJA  (SSP Arlanda)"
+  ],
+  "id": 79
 }

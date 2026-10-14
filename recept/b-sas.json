@@ -14,7 +14,7 @@
         {
           "mängd": 0.049,
           "enhet": "kg",
-          "namn": "Ägg gula"
+          "namn": "Äggula"
         },
         {
           "mängd": 2,
@@ -24,7 +24,7 @@
         {
           "mängd": 1,
           "enhet": "msk",
-          "namn": "Persillja"
+          "namn": "Persilja"
         },
         {
           "mängd": 5,
@@ -51,5 +51,9 @@
   "originalrubriker": [],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 5
 }

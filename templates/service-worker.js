@@ -15,15 +15,12 @@ self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET' || url.origin !== self.location.origin || !url.pathname.startsWith(BASE)) return;
   // Scaling and variant query strings use the same page; the client restores state.
   const key = url.origin + url.pathname;
-  event.respondWith(fetch(event.request).then(response => {
-    if (response.ok) {
-      const copy = response.clone();
-      event.waitUntil(caches.open(CACHE).then(cache => cache.put(key, copy)));
+  event.respondWith((async()=>{
+    const cache=await caches.open(CACHE);
+    const cached=await cache.match(key);
+    if(cached)return cached;
+    try{return await fetch(event.request);}catch{
+      return new Response('Sidan finns inte sparad offline. Öppna Receptboken när du har internetanslutning.', {status:503,headers:{'Content-Type':'text/plain; charset=utf-8'}});
     }
-    return response;
-  }).catch(async () => {
-    const cached = await caches.match(key);
-    if (cached) return cached;
-    return new Response('Sidan finns inte sparad offline. Öppna Receptboken när du har internetanslutning.', { status: 503, headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
-  }));
+  })());
 });

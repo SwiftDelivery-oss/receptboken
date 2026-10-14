@@ -41,5 +41,9 @@
   "delrecept": [
     "kongress-massa"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "D16 innehåller en trasig Excel-referens till Kongress massa. Ersatt med en riktig delreceptslänk; inte publicerad som instruktion."
+  ],
+  "id": 45
 }

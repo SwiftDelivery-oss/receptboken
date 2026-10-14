@@ -9,7 +9,7 @@
         {
           "mängd": 0.03,
           "enhet": "kg",
-          "namn": "vetemjöl "
+          "namn": "vetemjöl"
         },
         {
           "mängd": 0.000255,
@@ -29,7 +29,7 @@
         {
           "mängd": 0.00255,
           "enhet": "kg",
-          "namn": "ljussirap"
+          "namn": "ljus sirap"
         },
         {
           "mängd": 0.0046,
@@ -53,5 +53,10 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Tekakor"
+  ],
+  "id": 77
 }

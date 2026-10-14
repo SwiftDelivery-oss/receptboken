@@ -34,7 +34,7 @@
         {
           "mängd": 0.00084,
           "enhet": "kg",
-          "namn": "Svartpepper grov"
+          "namn": "Svartpeppar grov"
         },
         {
           "mängd": 0.000252,
@@ -63,5 +63,11 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: BORTSCH SALLAD"
+  ],
+  "id": 8
 }

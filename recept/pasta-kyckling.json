@@ -34,12 +34,12 @@
         {
           "mängd": 0.002,
           "enhet": "st",
-          "namn": "Tomat klyfta"
+          "namn": "Tomatklyfta"
         },
         {
           "mängd": 0.001,
           "enhet": "st",
-          "namn": "Paprika strimla"
+          "namn": "Paprikastrimla"
         }
       ]
     }
@@ -55,10 +55,20 @@
     "Dressing:",
     "Olja 2 msk",
     "Vinäger 1 msk",
-    "Italiensksalladskrydda 1 msk",
+    "Italiensk salladskrydda 1 msk",
     "Salt",
     "Vitpeppar"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 7: liten mängd 0.001 st för ”Dressing”; kontrollera enheten.",
+    "Rad 10: liten mängd 0.002 st för ”Tomat klyfta”; kontrollera enheten.",
+    "Rad 11: liten mängd 0.001 st för ”Paprika strimla”; kontrollera enheten.",
+    "Avvikande/extra rubriktext bevarad: Pasta sallad Kyckling",
+    "Dressingens mängder står i fritext och skalas inte automatiskt.",
+    "Ingredienser till dressingen (olja, vinäger, italiensk salladskrydda, salt och vitpeppar) ingår inte i listan. Dressingens basmängd behöver bekräftas.",
+    "Kontrollera styckmängderna för Dressing, Tomat klyfta och Paprika strimla mot originalet."
+  ],
+  "id": 47
 }

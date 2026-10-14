@@ -14,13 +14,13 @@
         {
           "mängd": 0.01,
           "enhet": "kg",
-          "namn": "Surdeg på vete ",
+          "namn": "Surdeg på vete",
           "delrecept": "surdeg-vete"
         },
         {
           "mängd": 0.0009,
           "enhet": "kg",
-          "namn": "Jäst torr"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 0.0017,
@@ -35,7 +35,7 @@
         {
           "mängd": 0.00315,
           "enhet": "kg",
-          "namn": "Olivolja "
+          "namn": "Olivolja"
         },
         {
           "mängd": 0.035,
@@ -51,17 +51,22 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "14g = 1 påse ",
+    "14g = 1 påse",
     "Blanda allt i ca 15-20 min (Vek deg)",
-    "låt jäsa i 40-50 min, Vik dubbelt försiktigt några gånger under jäsning ",
-    "dela låt jäsa 40-60 min under duk ",
-    "Grädda i ugn 250 grader ca 8-12 min (varm luft)",
-    "lite vatten i ugnen till ånga ",
-    "50% vatten, 50% vetemjöl ",
+    "låt jäsa i 40-50 min, Vik dubbelt försiktigt några gånger under jäsning",
+    "dela låt jäsa 40-60 min under duk",
+    "Grädda i ugn 250 grader ca 8-12 min (varmluft)",
+    "lite vatten i ugnen till ånga",
+    "50% vatten, 50% vetemjöl",
     "(Surdegen blandas dagen före låt stå framme över natten)"
   ],
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "H8: extra text finns på ingrediensraden; bevarad i anteckningar.",
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas."
+  ],
+  "id": 11
 }

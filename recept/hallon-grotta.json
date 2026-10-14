@@ -1,6 +1,6 @@
 {
   "slug": "hallon-grotta",
-  "titel": "Hallon grotta",
+  "titel": "Hallongrotta",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -34,11 +34,15 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Hallon Grotta"
+    "Hallongrotta"
   ],
   "anteckningar": [
     "Blanda: Allt"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 27
 }

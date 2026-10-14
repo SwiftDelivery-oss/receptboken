@@ -4,7 +4,7 @@
   "kategori": "Bröd",
   "ingredienser": [
     {
-      "rubrik": "Skållning ",
+      "rubrik": "Skållning",
       "ingredienser": [
         {
           "mängd": 0.0625,
@@ -34,7 +34,7 @@
         {
           "mängd": 0.0025,
           "enhet": "kg",
-          "namn": "Ingerfära"
+          "namn": "Ingefära"
         },
         {
           "mängd": 0.0025,
@@ -44,7 +44,7 @@
         {
           "mängd": 0.01875,
           "enhet": "kg",
-          "namn": "Homung"
+          "namn": "Honung"
         },
         {
           "mängd": 0.0625,
@@ -59,7 +59,7 @@
         {
           "mängd": 0.00625,
           "enhet": "kg",
-          "namn": "Havssalt "
+          "namn": "Havssalt"
         },
         {
           "mängd": 0.014,
@@ -89,12 +89,18 @@
   ],
   "anteckningar": [
     "Med russin blötlägg i vattnet som är till degen för mer smak",
-    "Blanda i russinen i slutet ",
+    "Blanda i russinen i slutet",
     "Blanda länge i maskin 10-15 min",
-    "Bakas lättast i form "
+    "Bakas lättast i form"
   ],
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 7: enhet saknas; ingen enhet gissad.",
+    "Rad 8: enhet saknas; ingen enhet gissad.",
+    "Avvikande/extra rubriktext bevarad: 800g"
+  ],
+  "id": 83
 }

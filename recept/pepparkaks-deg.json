@@ -1,6 +1,6 @@
 {
   "slug": "pepparkaks-deg",
-  "titel": "Pepparkaks deg",
+  "titel": "Pepparkaksdeg",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -19,7 +19,7 @@
         {
           "mängd": 0.16,
           "enhet": "kg",
-          "namn": "Mjölk pulver"
+          "namn": "Mjölkpulver"
         },
         {
           "mängd": 0.4,
@@ -65,9 +65,13 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "Blanda: Vetemjöl med torr kryddor (bör siktas)",
+    "Blanda: Vetemjöl med torra kryddor (bör siktas)",
     "Blanda sedan allt låt stå i kyl minst 1 vecka"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 49
 }

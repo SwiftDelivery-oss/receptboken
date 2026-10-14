@@ -4,7 +4,7 @@
   "kategori": "Bröd",
   "ingredienser": [
     {
-      "rubrik": "Skållning ",
+      "rubrik": "Skållning",
       "ingredienser": [
         {
           "mängd": 0.0625,
@@ -39,7 +39,7 @@
         {
           "mängd": 0.00625,
           "enhet": "kg",
-          "namn": "Havssalt "
+          "namn": "Havssalt"
         },
         {
           "mängd": 0.014,
@@ -65,15 +65,19 @@
   "standardantal": 1,
   "styckstorlek": "800g",
   "originalrubriker": [
-    "Mörk Sirapslimpa ",
+    "Mörk Sirapslimpa",
     "800g"
   ],
   "anteckningar": [
     "Blanda länge i maskin 10-15 min",
-    "Bakas lättast i form "
+    "Bakas lättast i form"
   ],
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: 800g"
+  ],
+  "id": 44
 }

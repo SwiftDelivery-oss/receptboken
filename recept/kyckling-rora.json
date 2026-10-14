@@ -1,6 +1,6 @@
 {
   "slug": "kyckling-rora",
-  "titel": "Kyckling  röra",
+  "titel": "Kycklingröra",
   "kategori": "Övriga",
   "ingredienser": [
     {
@@ -10,12 +10,12 @@
         {
           "mängd": 0.5,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.1,
           "enhet": "kg",
-          "namn": "CURRY MAJONÄS",
+          "namn": "CURRY MAJONNÄS",
           "delrecept": "curry"
         },
         {
@@ -37,12 +37,12 @@
         {
           "mängd": 0.015,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.008,
           "enhet": "kg",
-          "namn": "Curry majonäs",
+          "namn": "Curry majonnäs",
           "delrecept": "curry"
         },
         {
@@ -53,7 +53,7 @@
         {
           "mängd": 0.002,
           "enhet": "kg",
-          "namn": "Purjo fin hackad"
+          "namn": "Purjo finhackad"
         }
       ]
     }
@@ -72,5 +72,10 @@
   "delrecept": [
     "curry"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Alternativa tabeller visas som valbara varianter. Granska basantal och vilka anteckningar som hör till respektive variant.",
+    "Avvikande/extra rubriktext bevarad: KYCKLINGRÖRA MED CURRY"
+  ],
+  "id": 37
 }

@@ -8,6 +8,7 @@ from pathlib import Path
 import re
 import shutil
 from common import CATEGORIES, assert_no_money
+from recipe_ids import ensure_ids
 
 ROOT = Path(__file__).resolve().parents[1]
 BOOK = '<svg viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M16 7C11 3 6 4 3 5v21c5-2 9-1 13 2 4-3 8-4 13-2V5c-3-1-8-2-13 2Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M16 7v21M7 10l5 1m-5 4 5 1m8-5 5-1m-5 6 5-1" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>'
@@ -71,8 +72,15 @@ def build(base, dest):
     if not re.fullmatch(r'/(?:[A-Za-z0-9_-]+/)*', base):
         raise ValueError('--base måste vara / eller en sökväg som /receptboken/')
     if dest.resolve() != (ROOT/'dist').resolve(): raise ValueError('Byggkatalogen måste vara projektets dist/')
-    data = [json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT/'recept').glob('*.json'))]
-    for r in data: validate(r)
+    ensure_ids(ROOT/'recept')
+    data = []
+    for source in sorted((ROOT/'recept').glob('*.json')):
+        try:
+            recipe = json.loads(source.read_text(encoding='utf-8'))
+            validate(recipe)
+            data.append(recipe)
+        except (ValueError, KeyError, TypeError) as error:
+            raise ValueError(f'recept/{source.name}: {error}') from error
     lookup = {r['slug']: r for r in data}
     if len(lookup) != len(data): raise ValueError('Dubblett av slug')
     for r in data:
@@ -166,7 +174,8 @@ def build(base, dest):
         notes = ''.join(f'<p>{h(x)}</p>' for x in r['anteckningar']) or '<p class="muted">Ingen arbetsbeskrivning finns i originalreceptet.</p>'
         links = ''.join(f'<a class="related-link" href="{url("recept/"+slug+"/")}">{h(lookup[slug]["titel"])} {ARROW}</a>' for slug in r['delrecept'])
         related = '<section class="related"><h2>Delrecept</h2>'+links+'</section>' if links else ''
-        review = '<p class="review-note">Det här receptet har uppgifter som behöver granskas mot originalet.</p>' if r.get('granska') else ''
+        points = r.get('granskningspunkter',[]) or (['Det här receptet har uppgifter som behöver granskas mot originalet.'] if r.get('granska') else [])
+        review = '<aside class="review-note"><h3>Kontrollera receptuppgifterna</h3><ul>'+''.join('<li>'+h(point)+'</li>' for point in points)+'</ul></aside>' if points else ''
         original = ' · '.join(x for x in r.get('originalrubriker',[]) if x.strip().casefold()!=r['titel'].strip().casefold())
         original = f'<p class="original-title">{h(original)}</p>' if original else ''
         size = f' à {h(r["styckstorlek"])}' if r.get('styckstorlek') else ''

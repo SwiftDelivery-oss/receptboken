@@ -29,12 +29,12 @@
         {
           "mängd": 0.002,
           "enhet": "st",
-          "namn": "Tomat "
+          "namn": "Tomat"
         },
         {
           "mängd": 0.001,
           "enhet": "st",
-          "namn": "Ägg halva"
+          "namn": "ägghalva"
         },
         {
           "mängd": 0.001,
@@ -56,5 +56,14 @@
   "originalrubriker": [],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 5: liten mängd 0.001 st för ”Dressing”; kontrollera enheten.",
+    "Rad 8: liten mängd 0.002 st för ”Tomat ”; kontrollera enheten.",
+    "Rad 9: liten mängd 0.001 st för ”Ägg halva”; kontrollera enheten.",
+    "Rad 10: liten mängd 0.001 st för ”Gaffel”; kontrollera enheten.",
+    "Rad 11: ”Dill en nypa” har ingen mängd; lämnad tom.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 25
 }

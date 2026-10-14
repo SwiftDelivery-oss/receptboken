@@ -1,6 +1,6 @@
 {
   "slug": "kyc-m-garam-marsala",
-  "titel": "Kyc.m garam marsala",
+  "titel": "Kyc.m garam masala",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -14,7 +14,7 @@
         {
           "mängd": 4.3,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 1.2,
@@ -24,12 +24,12 @@
         {
           "mängd": 0.03,
           "enhet": "kg",
-          "namn": "Vitlök "
+          "namn": "Vitlök"
         },
         {
           "mängd": 0.05,
           "enhet": "kg",
-          "namn": "Garam Marsala"
+          "namn": "Garam masala"
         },
         {
           "mängd": 0.02,
@@ -64,10 +64,15 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "KYCKLING M GARAM MARSALA",
+    "KYCKLING M GARAM MASALA",
     "(SSP Arlanda )"
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: KYCKLING M GARAM MARSALA / (SSP Arlanda )"
+  ],
+  "id": 36
 }

@@ -341,13 +341,20 @@ def convert(path, out, report, source_name=None):
             issues[r['titel']].append('D16 innehåller en trasig Excel-referens till Kongress massa. Ersatt med en riktig delreceptslänk; inte publicerad som instruktion.')
         r['delrecept'] = sorted(links)
         r['granska'] = bool(issues[r['titel']])
+        r['granskningspunkter'] = list(dict.fromkeys(issues[r['titel']]))
         assert_no_money(r)
     out.mkdir(parents=True, exist_ok=True)
     for r in recipes:
         target = out / (r['slug']+'.json')
         if target.exists(): raise FileExistsError(f'{target} finns redan. Använd en ny --out-mapp för att skydda manuella ändringar.')
     for r in recipes:
+        previous = Path(__file__).resolve().parents[1]/'recept'/(r['slug']+'.json')
+        if previous.exists():
+            previous_data = json.loads(previous.read_text(encoding='utf-8'))
+            if previous_data.get('id') is not None: r['id'] = previous_data['id']
         (out/(r['slug']+'.json')).write_text(json.dumps(r, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+    from recipe_ids import ensure_ids
+    ensure_ids(out)
     formula_count = Counter(type(c.value).__name__ for s in formulas for row in s for c in row if c.data_type == 'f')
     source_name = source_name or path.name
     lines = ['# Konverteringsrapport', '', f'Källa: {source_name}. Originalfilen har inte ändrats.', '',

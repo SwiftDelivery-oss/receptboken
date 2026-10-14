@@ -1,6 +1,6 @@
 {
   "slug": "rodbetor-philiefiaost",
-  "titel": "Rödbetor philiefiaost",
+  "titel": "Rödbetor philadelphiaost",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -14,7 +14,7 @@
         {
           "mängd": 0.04,
           "enhet": "kg",
-          "namn": "Philidelfiaost"
+          "namn": "Philadelphiaost"
         },
         {
           "mängd": 0.01,
@@ -39,11 +39,17 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Rödbetor med Philidelfiaost "
+    "Rödbetor med Philadelphiaost"
   ],
   "anteckningar": [
     "V-Peppar"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 12: ”Salt” har ingen mängd; lämnad tom.",
+    "Avvikande/extra rubriktext bevarad: Rödbetor med Philidelfiaost ",
+    "Misstänkt stavning ”Philidelfia”. Originalet är inte rättat."
+  ],
+  "id": 61
 }

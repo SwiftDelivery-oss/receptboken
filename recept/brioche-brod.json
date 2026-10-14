@@ -1,6 +1,6 @@
 {
   "slug": "brioche-brod",
-  "titel": "Brioche bröd",
+  "titel": "Briochebröd",
   "kategori": "Bröd",
   "ingredienser": [
     {
@@ -9,7 +9,7 @@
         {
           "mängd": 0.55,
           "enhet": "kg",
-          "namn": "Vetamjöl"
+          "namn": "Vetemjöl"
         },
         {
           "mängd": 0.33,
@@ -50,9 +50,13 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "tillsätt smör kallt i bitar i slutet av blandningen av degen ",
-    "grädda på 150 grader "
+    "tillsätt smör kallt i bitar i slutet av blandningen av degen",
+    "grädda på 150 grader"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas."
+  ],
+  "id": 9
 }

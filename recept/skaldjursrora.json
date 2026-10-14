@@ -41,5 +41,9 @@
   "delrecept": [
     "ishavsrora"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 67
 }

@@ -145,13 +145,29 @@ Lägg till sidan på hemskärmen med webbläsarens funktion. Dela använder tele
 | `.github/workflows/pages.yml` | Automatisk publicering |
 | `dist/` | Filer att ladda upp |
 
-Originalets stavning är bevarad. Webbplatsen har semantisk HTML, svenska etiketter, tangentbordsstöd, synliga fokusmarkeringar, hög kontrast och stora tryckytor. Inga tredjepartsanrop sker från sidan.
+Tydliga stavfel har rättats på ägarens begäran. Ändringarna dokumenteras i `stavningsrattningar.md`; Excel-originalet och konverteringsrapporten är bevarade. Efter en ny Excel-konvertering kör du `python scripts/correct_spelling.py` för att åter tillämpa de granskade rättningarna. Webbplatsen har semantisk HTML, svenska etiketter, tangentbordsstöd, synliga fokusmarkeringar, hög kontrast och stora tryckytor. Inga tredjepartsanrop sker från sidan.
 # receptboken
 # Mobilknappar, delningslänkar och degvikt
 
-Inköpslistans knappar visar bara ikoner på små skärmar. Knappnamnen finns kvar för skärmläsare. Delade listor använder det kortare formatet `?r=formfranska:3,honokaka:2`; äldre `?val=...`-länkar fungerar fortfarande.
+Delade inköpslistor visas separat. Välj **Lägg till i min lista** för att summera dem med din lista, eller **Ersätt min lista** för att byta. Ogiltiga länkar påverkar aldrig sparade recept. Tömning kan ångras innan sidan stängs. Oförändrade varor behåller avbockningen när andra recept ändras; ändrade mängder behöver bockas av igen.
+
+Recept kan ha `granskningspunkter`, en lista med svenska texter som visas i recept, inköpslista och utskrift. Ta bort en punkt när den har kontrollerats mot originalet. Fritextingredienser läggs inte automatiskt till: bekräfta basmängden och flytta dem sedan till en ingrediensgrupp.
+
+`npm run check` bygger och testar både `/` och `/receptboken/`. GitHub Actions kör också denna kontroll. `tests/browser-flows.js` innehåller återanvändbara webbläsarkontroller: kör filens innehåll i utvecklarkonsolen på den lokala sidan och anropa `await runBrowserFlows('/')` (eller den konfigurerade basadressen). Kontrollen återställer sparade val efter körningen.
+
+Inköpslistans knappar visar bara ikoner på små skärmar. Knappnamnen finns kvar för skärmläsare. Delade listor använder heltals-ID:n: `?r=16-3_29-2`. Gamla JSON- och sluglänkar stöds inte längre.
 
 För bröd som skalas i stycken visas degvikt per styck, beräknad genom att summera ingrediensernas vikt och dela med basantalet. Vikten ändras inte när antalet bröd ändras. Saknade mängder, volymenheter och okända enheter ger en tydlig markering i stället för en uppskattning. Uppgiften följer med vid utskrift av recepten.
 
 ha.mr är ännu inte integrerat: tjänsten kunde inte verifieras vid kontrollen. Delningslänkarna fungerar direkt utan en extern förkortningstjänst.
 
+
+## Beständiga recept-ID:n
+
+Varje recept har ett positivt heltal i fältet `id`. Ändra aldrig detta fält vid namnbyte, och använd aldrig ett gammalt ID för ett nytt recept. Bygget tilldelar och skriver tillbaka nästa lediga ID till recept som saknar fältet. Konverteringen behåller ID:n för recept som redan finns i projektets receptmapp.
+
+**Behåll alltid `recept-id-register.json` i projektet och på GitHub.** Där reserveras använda ID:n, även efter att JSON-filen tagits bort. Registret är en del av säkerhetskopian och ska inte raderas eller numreras om. När du kopierar ett recept för att skapa ett nytt, ta bort `id` från kopian innan du bygger.
+
+Länkarna använder `?r=ID-ANTAL_ID-ANTAL`, med punkt för decimalantal. Exempel med sex recept: `/inkopslista/?r=6-6_11-5_24-7_29-4_16-3_83-2` (31 tecken efter sökvägen). Okända recept och ogiltiga antal hoppas över med en vänlig notis; saknat antal blir 1. Dubbletter summeras. Högst 100 poster läses och högst 10 000 per recept delas. En vald alternativ tabell kan lägga till en kort `v`-parameter; avstängda delrecept använder `d=0`.
+
+Dela, Kopiera länk och länken på den utskrivna inköpslistan använder samma kodning. Delade listor ändrar fortfarande inte den egna listan utan ett aktivt importval.

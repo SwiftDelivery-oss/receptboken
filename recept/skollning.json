@@ -1,6 +1,6 @@
 {
   "slug": "skollning",
-  "titel": "Skollning",
+  "titel": "Skållning",
   "kategori": "Övriga",
   "ingredienser": [
     {
@@ -24,12 +24,19 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Recept skollning"
+    "Recept skållning"
   ],
   "anteckningar": [
-    "Koka Vatten blanda med mjölet ",
+    "Koka Vatten blanda med mjölet",
     "Kör till en jämn smet"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Delrecept normaliserat till 1 kg med formelns proportioner. Kontrollera att detta är önskad skalningsenhet.",
+    "Proportionerna hämtas från Rågsiktskaka. Ingen koppling till Vörtlimpas lokala skållning har antagits.",
+    "Kategorin saknas i beställningsfliken; placerad i Övriga.",
+    "Avvikande/extra rubriktext bevarad: Recept skollning"
+  ],
+  "id": 71
 }

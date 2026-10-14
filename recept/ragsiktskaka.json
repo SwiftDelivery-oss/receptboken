@@ -4,7 +4,7 @@
   "kategori": "Bröd",
   "ingredienser": [
     {
-      "rubrik": "Skållning ",
+      "rubrik": "Skållning",
       "ingredienser": [
         {
           "mängd": 0.041666666667,
@@ -44,7 +44,7 @@
         {
           "mängd": 0.0125,
           "enhet": "kg",
-          "namn": "Homung"
+          "namn": "Honung"
         },
         {
           "mängd": 0.041666666667,
@@ -59,7 +59,7 @@
         {
           "mängd": 0.004166666667,
           "enhet": "kg",
-          "namn": "Havssalt "
+          "namn": "Havssalt"
         },
         {
           "mängd": 0.009333333333,
@@ -92,5 +92,12 @@
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 7: enhet saknas; ingen enhet gissad.",
+    "Rad 8: enhet saknas; ingen enhet gissad.",
+    "Rad 13: ingrediensnamn saknas. Mängden har behållits med tomt namn.",
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas."
+  ],
+  "id": 59
 }

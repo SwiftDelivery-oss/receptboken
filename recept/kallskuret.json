@@ -49,7 +49,7 @@
         {
           "mängd": 0.025,
           "enhet": "kg",
-          "namn": "Dressing "
+          "namn": "Dressing"
         }
       ]
     }
@@ -63,5 +63,11 @@
     "* Sallad ,tomat,paprika,gurka."
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 9: olika enheter i bas och uppskalning (1/2st / st). Basenheten behållen.",
+    "Delrecept för ”Potatissallad” är inte entydigt identifierat; ingen länk gissad.",
+    "Delrecept för ”Ishavssallad m räkor” är inte entydigt identifierat; ingen länk gissad."
+  ],
+  "id": 33
 }

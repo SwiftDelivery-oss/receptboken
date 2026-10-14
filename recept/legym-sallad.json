@@ -1,6 +1,6 @@
 {
   "slug": "legym-sallad",
-  "titel": "Legym sallad",
+  "titel": "Legymsallad",
   "kategori": "Röror",
   "ingredienser": [
     {
@@ -14,12 +14,12 @@
         {
           "mängd": 0.5,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.02,
           "enhet": "kg",
-          "namn": "Yoghurt pulver"
+          "namn": "Yoghurtpulver"
         },
         {
           "mängd": 0.11,
@@ -29,7 +29,7 @@
         {
           "mängd": 0.002,
           "enhet": "kg",
-          "namn": "vitpeppar "
+          "namn": "vitpeppar"
         },
         {
           "mängd": 0.002,
@@ -65,5 +65,9 @@
   "delrecept": [
     "curry"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: LEGYMSALLAD"
+  ],
+  "id": 40
 }

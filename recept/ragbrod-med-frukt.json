@@ -19,12 +19,12 @@
         {
           "mängd": 0.0333,
           "enhet": "kg",
-          "namn": "Pumpakärnor "
+          "namn": "Pumpakärnor"
         },
         {
           "mängd": 0.0444,
           "enhet": "kg",
-          "namn": "torkad Aprekos "
+          "namn": "torkad Aprikos"
         },
         {
           "mängd": 0.0444,
@@ -34,7 +34,7 @@
         {
           "mängd": 0.1,
           "enhet": "kg",
-          "namn": "Råg kross "
+          "namn": "Rågkross"
         },
         {
           "mängd": 0.02,
@@ -64,7 +64,7 @@
         {
           "mängd": 0.1,
           "enhet": "kg",
-          "namn": "Rågmjöl grovt "
+          "namn": "Rågmjöl grovt"
         },
         {
           "mängd": 0.05,
@@ -74,7 +74,7 @@
         {
           "mängd": 0.00833,
           "enhet": "kg",
-          "namn": "Jäst torr"
+          "namn": "Torrjäst"
         },
         {
           "mängd": 0.1,
@@ -94,11 +94,16 @@
   ],
   "anteckningar": [
     "Blanda länge i maskin 10-15 min",
-    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min ",
-    "Inne temp 93-98 grader"
+    "Bakas i formar 275 grader i 10 min, sänk till 180 grader i 30-40 min",
+    "Innertemperatur 93-98 grader"
   ],
   "delrecept": [
     "surdeg-rag"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas.",
+    "Avvikande/extra rubriktext bevarad: 3 satser = 3 bröd ca 1,1 kg st"
+  ],
+  "id": 55
 }

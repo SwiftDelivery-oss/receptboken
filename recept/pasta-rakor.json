@@ -34,12 +34,12 @@
         {
           "mängd": 0.002,
           "enhet": "st",
-          "namn": "Tomat klyfta"
+          "namn": "Tomatklyfta"
         },
         {
           "mängd": 0.001,
           "enhet": "st",
-          "namn": "Ägg halva"
+          "namn": "ägghalva"
         },
         {
           "mängd": 0.001,
@@ -58,5 +58,14 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 6: liten mängd 0.001 st för ”Dressing”; kontrollera enheten.",
+    "Rad 9: liten mängd 0.002 st för ”Tomat klyfta”; kontrollera enheten.",
+    "Rad 10: liten mängd 0.001 st för ”Ägg halva”; kontrollera enheten.",
+    "Rad 11: liten mängd 0.001 st för ”Gaffel”; kontrollera enheten.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Pasta sallad Räkor"
+  ],
+  "id": 48
 }

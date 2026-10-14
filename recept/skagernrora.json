@@ -1,6 +1,6 @@
 {
   "slug": "skagernrora",
-  "titel": "skagernröra",
+  "titel": "skagenröra",
   "kategori": "Övriga",
   "ingredienser": [
     {
@@ -38,5 +38,10 @@
   "delrecept": [
     "ishavsrora"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Avvikande/extra rubriktext bevarad: SKAGERN RÖRA",
+    "Misstänkt stavning ”skagern”. Originalet är inte rättat."
+  ],
+  "id": 66
 }

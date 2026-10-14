@@ -1,6 +1,6 @@
 {
   "slug": "smet-massariner",
-  "titel": "smet massariner",
+  "titel": "smet mazariner",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -39,7 +39,7 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Smet till massariner"
+    "Smet till mazariner"
   ],
   "anteckningar": [
     "Blanda:",
@@ -47,5 +47,11 @@
     "Sedan i med Vetemjöl och socker"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 8: olika enheter i bas och uppskalning (L / kg). Basenheten behållen.",
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet.",
+    "Avvikande/extra rubriktext bevarad: Smet till massariner"
+  ],
+  "id": 72
 }

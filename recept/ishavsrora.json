@@ -19,12 +19,12 @@
         {
           "mängd": 1,
           "enhet": "kg",
-          "namn": "Crabbsticks"
+          "namn": "Crabsticks"
         },
         {
           "mängd": 1.5,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.045,
@@ -49,7 +49,7 @@
         {
           "mängd": 0.4,
           "enhet": "kg",
-          "namn": "Majzena "
+          "namn": "Maizena"
         },
         {
           "mängd": 0.01,
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "rubrik": "MAJZENA BLANDNING",
+      "rubrik": "MAIZENA BLANDNING",
       "ingredienser": [
         {
           "mängd": 0.6,
@@ -84,7 +84,7 @@
         {
           "mängd": 0.07,
           "enhet": "kg",
-          "namn": "MAJZENA"
+          "namn": "MAIZENA"
         }
       ]
     }
@@ -96,5 +96,12 @@
   "originalrubriker": [],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 3: separat mängd utan skalningsformel (Räkor). Behållen som basmängd; måste granskas.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "MAJZENA BLANDNING är bevarad som separat delsektion. Kontrollera hur den används i huvudtabellens Majzena; inget automatiskt utbyte har antagits.",
+    "Bekräfta räkmängden och om MAJZENA BLANDNING ska ersätta eller läggas till utöver huvudtabellens Majzena och vatten. Listan summerar tills vidare båda tabellerna."
+  ],
+  "id": 30
 }

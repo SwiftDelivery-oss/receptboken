@@ -9,12 +9,12 @@
         {
           "mängd": 0.056,
           "enhet": "kg",
-          "namn": "vetemjöl "
+          "namn": "vetemjöl"
         },
         {
           "mängd": 0.0065,
           "enhet": "kg",
-          "namn": "Rågsikt "
+          "namn": "Rågsikt"
         },
         {
           "mängd": 0.002,
@@ -29,12 +29,12 @@
         {
           "mängd": 0.00325,
           "enhet": "kg",
-          "namn": "olivolja "
+          "namn": "olivolja"
         },
         {
           "mängd": 0.0065,
           "enhet": "kg",
-          "namn": "Surdeg vete ",
+          "namn": "Surdeg vete",
           "delrecept": "surdeg-vete"
         },
         {
@@ -50,11 +50,15 @@
   "standardantal": 30,
   "styckstorlek": "",
   "originalrubriker": [
-    "källarfranska "
+    "källarfranska"
   ],
   "anteckningar": [],
   "delrecept": [
     "surdeg-vete"
   ],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 32
 }

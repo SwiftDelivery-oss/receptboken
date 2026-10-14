@@ -14,7 +14,7 @@
         {
           "mängd": 0.333,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.0066,
@@ -48,5 +48,11 @@
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 11: olika enheter i bas och uppskalning (liter / kg). Basenheten behållen.",
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på."
+  ],
+  "id": 34
 }

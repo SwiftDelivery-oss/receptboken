@@ -4,7 +4,7 @@
   "kategori": "Bröd",
   "ingredienser": [
     {
-      "rubrik": "Skollning/fördeg",
+      "rubrik": "Skållning/fördeg",
       "ingredienser": [
         {
           "mängd": 0.25,
@@ -49,7 +49,7 @@
         {
           "mängd": 0.014,
           "enhet": "kg",
-          "namn": "Torr jäst"
+          "namn": "Torrjäst"
         }
       ]
     }
@@ -59,10 +59,17 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Gotlänskt slagbröd",
+    "Gotländskt slagbröd",
     "kg st"
   ],
   "anteckningar": [],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Kategorin hämtad via avvikande namn ”Gotlänskt slagbröd” i beställningsfliken.",
+    "Skalning tolkad som st från brödkategorin; antal per sats bör granskas.",
+    "Arbetsbeskrivning saknas i filen; ingen text har hittats på.",
+    "Avvikande/extra rubriktext bevarad: Gotlänskt slagbröd / kg st"
+  ],
+  "id": 22
 }

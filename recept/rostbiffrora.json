@@ -9,7 +9,7 @@
         {
           "mängd": 0.015,
           "enhet": "kg",
-          "namn": "Majonäs"
+          "namn": "Majonnäs"
         },
         {
           "mängd": 0.01,
@@ -45,5 +45,7 @@
     "1 sats = 1 st sandwich"
   ],
   "delrecept": [],
-  "granska": false
+  "granska": false,
+  "id": 63,
+  "granskningspunkter": []
 }

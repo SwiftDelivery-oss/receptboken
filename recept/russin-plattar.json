@@ -1,6 +1,6 @@
 {
   "slug": "russin-plattar",
-  "titel": "Russin plättar",
+  "titel": "Russinplättar",
   "kategori": "Kakor mm",
   "ingredienser": [
     {
@@ -45,10 +45,14 @@
   "styckstorlek": "",
   "originalrubriker": [],
   "anteckningar": [
-    "Blanda; Smör, Socker, ägg, mjölblandning (med bakpulver) mot slutet häll i russin som är blandat med lite vetemjöl ",
+    "Blanda; Smör, Socker, ägg, mjölblandning (med bakpulver) mot slutet häll i russin som är blandat med lite vetemjöl",
     "från totala mjölmängden",
-    "Spritsa ut kakor ca 2-3 cm i diamerter"
+    "Spritsa ut kakor ca 2-3 cm i diameter"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 65
 }

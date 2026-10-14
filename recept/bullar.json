@@ -59,15 +59,20 @@
   "standardantal": 1,
   "styckstorlek": "",
   "originalrubriker": [
-    "Bullar "
+    "Bullar"
   ],
   "anteckningar": [
-    "Blanda allt låt jäsa i 40-50 min ",
-    "Grädda i ugn 200 grader ca 8-12 min (varm luft)",
-    "*OBS!! Välj bort kardemumma om det är saffrans deg*",
-    "(blanda i russin i slutet som är blötlagda kvällen innan i all deg vätska)",
-    "Blanda i degblandare i ca 10-15 min till en smidig deg "
+    "Blanda allt låt jäsa i 40-50 min",
+    "Grädda i ugn 200 grader ca 8-12 min (varmluft)",
+    "*OBS!! Välj bort kardemumma om det är saffransdeg*",
+    "(blanda i russin i slutet som är blötlagda kvällen innan i all degvätska)",
+    "Blanda i degblandare i ca 10-15 min till en smidig deg"
   ],
   "delrecept": [],
-  "granska": true
+  "granska": true,
+  "granskningspunkter": [
+    "Rad 15: olika enheter i bas och uppskalning (g / kg). Basenheten behållen.",
+    "Skalning benämns sats eftersom en tydlig enhet saknas. Granska utbytet."
+  ],
+  "id": 10
 }
