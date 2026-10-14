@@ -59,7 +59,7 @@ svg {
   display: none !important;
 }
 :focus-visible {
-  outline: 3px solid #a55130;
+  outline: 3px solid var(--green);
   outline-offset: 5px;
 }
 input:focus-visible,
@@ -287,7 +287,7 @@ h3 {
   font-size: 18px;
 }
 .search-box:focus-within {
-  outline: 3px solid #a55130;
+  outline: 3px solid var(--green);
   outline-offset: 3px;
 }
 .search-box input:focus-visible {
@@ -484,6 +484,11 @@ h3 {
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 26px;
+}
+.recipe-action-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 .button {
   border: 1px solid #b9bfb0;
@@ -2487,6 +2492,7 @@ input[type="search"]::-ms-clear {
 /* Touch clicks do not draw a focus box;
  keyboard controls remain visible. */
 :focus:not(:focus-visible),
+html[data-focus-input="pointer"] :focus-visible,
 [tabindex="-1"]:focus {
   outline: none;
   box-shadow: none;
@@ -2549,6 +2555,38 @@ label {
 
   .recipe-actions {
     margin-top: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .recipe-actions .recipe-shopping-control {
+    width: 100%;
+    min-height: 54px;
+    align-items: center;
+  }
+
+  .recipe-action-tools {
+    gap: 10px;
+  }
+
+  .recipe-action-tools .button {
+    width: 52px;
+    height: 52px;
+    min-height: 52px;
+    padding: 12px;
+    gap: 0;
+  }
+
+  .recipe-action-tools .button > span:not(.action-icon) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
   }
 }
 

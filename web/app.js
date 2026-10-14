@@ -5,6 +5,15 @@ import { doughLabel } from "./dough.js";
 const $ = (selector) => document.querySelector(selector);
 const base = document.body.dataset.base;
 const data = JSON.parse($("#page-data")?.textContent || "null");
+// Safari can retain :focus-visible after a tap. Track pointer use explicitly.
+document.addEventListener("pointerdown", () => {
+  document.documentElement.dataset.focusInput = "pointer";
+}, { capture: true });
+document.addEventListener("keydown", (event) => {
+  if (!event.metaKey && !event.ctrlKey && !event.altKey) {
+    document.documentElement.dataset.focusInput = "keyboard";
+  }
+}, { capture: true });
 const normalize = (text) =>
   text
     .normalize("NFD")
